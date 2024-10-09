@@ -1,1 +1,1 @@
-module.exports = 'Evaluación y control en la gestión del riesgo: toma de decisiones gerenciales.'
+module.exports = 'La gestión del riesgo en la empresa.'

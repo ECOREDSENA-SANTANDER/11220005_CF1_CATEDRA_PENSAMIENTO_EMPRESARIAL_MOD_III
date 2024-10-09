@@ -1,9 +1,8 @@
 export default {
   global: {
-    componenteFormativo:
-      'Evaluación y control en la gestión del riesgo: toma de decisiones gerenciales.',
+    componenteFormativo: 'La gestión del riesgo en la empresa.',
     descripcionCurso:
-      'La evaluación y control en la gestión del riesgo aborda cómo la gerencia del conocimiento y de las finanzas influyen en la toma de decisiones empresariales, destacando la importancia de las proyecciones financieras, el control continuo de riesgos, y el valor estratégico del conocimiento en la mejora de procesos.',
+      'Este componente formativo aborda la gestión de riesgos como herramienta clave para mitigar incertidumbres y crear valor en las empresas, destacando la importancia de una estructura gerencial adecuada. Se explora el proceso de la gestión del riesgo de manera integral y su impacto la toma de decisiones gerenciales, incluyendo también una profundización en el análisis y plan de mejoramiento de la gestión del riesgo, así como la relevancia de la gerencia de recursos humanos en la consecución de los objetivos corporativos.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
@@ -33,35 +32,34 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Evaluación de la gestión de riesgo',
+        titulo: 'Principios y marco de referencia de la gestión del riesgo',
         desarrolloContenidos: true,
       },
 
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo:
-          'La gerencia de la información y el conocimiento en la toma de decisiones',
+        titulo: 'Proceso de la gestión del riesgo',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'La gerencia del conocimiento',
+            titulo: ' Comunicación y consulta',
             hash: 't_2_1',
           },
           {
             numero: '2.2',
-            titulo: 'Gerencia del conocimiento en las pymes',
+            titulo: 'Alcance, contexto y criterios',
             hash: 't_2_2',
           },
           {
             numero: '2.3',
-            titulo: 'Finalidad de la información',
+            titulo: 'Evaluación y tratamiento del riesgo',
             hash: 't_2_3',
           },
           {
             numero: '2.4',
-            titulo: 'Creación del conocimiento organizacional',
+            titulo: 'Seguimiento, revisión, registro e informe',
             hash: 't_2_4',
           },
         ],
@@ -69,21 +67,39 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'El control en la gestión del riesgo',
+        titulo: 'La gerencia y la dirección',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'El directivo como elemento dinámico de la empresa',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'La gerencia del mercadeo',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: ' La gerencia de los recursos humanos',
+            hash: 't_3_3',
+          },
+        ],
       },
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'La gerencia de las finanzas',
+        titulo: 'Análisis de la gestión del riesgo',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '4.1',
-            titulo: 'Importancia de las proyecciones financieras',
-            hash: 't_4_1',
-          },
-        ],
+        subMenu: [],
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Plan de mejoramiento de la gestión de riesgo',
+        desarrolloContenidos: true,
+        subMenu: [],
       },
     ],
     subMenu: [
