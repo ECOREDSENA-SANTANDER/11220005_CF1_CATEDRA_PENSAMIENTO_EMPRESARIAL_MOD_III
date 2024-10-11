@@ -5,10 +5,52 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Control de la gestión del riesgo 
+      h1 La gerencia y la dirección
     
-    p.mb-4 La fase final en la gestión del riesgo tiene como objetivo evaluar el desempeño, la efectividad y el cumplimiento de las medidas de protección implementadas, con el fin de identificar y corregir posibles deficiencias. El monitoreo y la revisión son componentes esenciales e integrales en este proceso, requiriendo un seguimiento constante de los riesgos, la efectividad del plan, las estrategias y el sistema de administración. Es fundamental revisar periódicamente los riesgos para asegurar que los cambios en el entorno no alteren sus prioridades, ya que muy pocos permanecen inalterables a lo largo del tiempo. Las actividades del proceso deben estar alineadas con el plan operativo de la organización, donde se especifican los momentos de intervención y los responsables de su ejecución.
+    p.mb-4 Una de las preguntas más importantes, y que con frecuencia surge dentro del ámbito empresarial es la siguiente:
+    .row.justify-content-center.align-items-center.mb-5(data-aos='fade')
+      .col-lg-10
+        .cajon.color-primario.p-4.mb-4
+          h5 ¿Por qué algunos empresarios obtienen grandes beneficios mientras otros apenas sobreviven, a pesar de estar igualmente motivados? 
+    
+    .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
+      .col-lg-9
+        p Aunque las estructuras empresariales y las oportunidades varían, no basta con elegir actividades empresariales atractivas. En todos los sectores, existen empresas que prosperan y otras que no. Lo más importante, en el caso de las empresas que no logran un rendimiento adecuado, es establecer una estructura gerencial que permita asegurar una posición competitiva, mitigar los riesgos y proteger los beneficios obtenidos ante los ataques de la competencia.
+        p Para lograr este objetivo, es esencial contar con una persona responsable, creativa y participativa que sepa ejercer un liderazgo efectivo. La gerencia debe formular la misión y la visión de la empresa, estableciendo metas claras y alcanzables, y asegurando una ventaja competitiva sostenida. Esta forma de gestión está estrechamente vinculada a la estrategia, entendida como el plan mediante el cual la empresa reafirma su posición en el mercado y alcanza sus objetivos. 
+        p La formulación de la estrategia empresarial requiere:
 
+        ul.lista-ul--color
+          li
+            i.fas.fa-angle-right
+            |Identificar la ventaja competitiva deseada.
+          li
+            i.fas.fa-angle-right
+            | Configurar la empresa en tres dimensiones:. 
+    
+      .col-lg-3
+        img(src='@/assets/curso/temas/t3/img01.png', alt='')
+      .col-lg-9
+        ol.lista-ol--cuadro
+          li
+          .lista-ol--cuadro__vineta
+            span 1
+          |Producto o servicio que se ofrecerá para satisfacer las necesidades del mercado.
+          li
+          .lista-ol--cuadro__vineta
+            span 2
+          |Actividades empresariales que realizará directamente y cuáles serán subcontratadas.
+          li
+          .lista-ol--cuadro__vineta
+            span 3
+          |Área geográfica en la que competirá.
+    
+    
+    
+    
+    
+    
+    
+    
     .row.mb-5(data-aos='fade')
       .col-lg-5.pe-lg-0.d-none.d-lg-block
         img(src='@/assets/curso/temas/t3/img1.png', alt='')
