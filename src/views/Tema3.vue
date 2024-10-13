@@ -79,8 +79,13 @@
       .col-lg-7.ps-lg-0
         .br-l.bg1.p-4.h-100.d-flex.align-items-center.mont1
           p El director es el elemento en quien se basa la continuidad de la empresa, éste como centro, es el encargado de hacer productivos los recursos, es el responsable de lograr, de un modo organizado, el progreso de la iniciativa empresarial. La dirección de la empresa debe hacerse mediante objetivos, y ser capaz de tomar decisiones estratégicas, e implementarlas junto con un equipo de trabajo integrado y organizado por él mismo. Para lograr lo propuesto, el directivo debe fundamentarse en la formación personal, teniendo una total comprensión de su empresa tanto en su mercado, como en el entorno externo que lo rodea. <br><br>Es importante que el director de un manejo adecuado a las presiones a las que se pueda enfrentar, personal o profesionalmente, a la hora de ejercer su acción de liderazgo dentro de la empresa, ya que, si no se gestionan adecuadamente, podrían afectar negativamente su capacidad para liderar de manera efectiva.
-
-    h3.mb-2 La importancia de una gerencia eficaz
+    
+    .row.align-items-center.subt.mb-4(data-aos="fade-left")
+      .col-2.col-md-auto
+        img(src='@/assets/curso/temas/t3/subt.svg', alt='')
+      .col-10.col-md-auto.ps-0
+        h3.mb-0 La importancia de una gerencia eficaz
+    
     p Una gerencia eficaz se distingue por su capacidad de coordinar, alentar y motivar al equipo de trabajo para alcanzar los objetivos empresariales y personales de cada colaborador. La función del gerente no es solo la de mandar, sino la de facilitar el trabajo en equipo. Una empresa competitiva debe valorar su capital humano e intelectual, reconociendo que los trabajadores esperan respeto y valoración por parte de sus superiores.
     p Para evitar caer en la trampa de atribuirse los éxitos y culpar al equipo por los fracasos, los directivos deben tener en cuenta las siguientes recomendaciones:
    
@@ -123,7 +128,12 @@
             .col-md-7
               p Si es necesario realizar cambios, #[b informar al equipo con suficiente tiempo], explicando las razones y el impacto de estos, y hacerlos partícipes del proceso.
     
-    h3.mb-2 Conocimiento y alcance de la meta
+    .row.align-items-center.subt.mb-4(data-aos="fade-left")
+      .col-2.col-md-auto
+        img(src='@/assets/curso/temas/t3/subt.svg', alt='')
+      .col-10.col-md-auto.ps-0
+        h3.mb-0 Conocimiento y alcance de la meta
+
     p El éxito futuro de una empresa depende de un proceso administrativo eficaz, y este comienza con una adecuada planeación. La planeación debe estar orientada hacia el entorno, la misión de la empresa, y debe fomentar la innovación y la creatividad. Para que sea realmente estratégica, la planeación debe anticiparse a los cambios futuros y no simplemente proyectar el pasado.
     p Para guiar este proceso, los directivos deben plantearse y responder a las siguientes preguntas:
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
@@ -182,7 +192,12 @@
             span 3
           |#[b Selección y formación:] Capacitar y dirigir al personal del área.
     
-    h3.mb-3 Importancia en la gerencia de mercadeo
+    .row.align-items-center.subt.mb-4(data-aos="fade-left")
+      .col-2.col-md-auto
+        img(src='@/assets/curso/temas/t3/subt.svg', alt='')
+      .col-10.col-md-auto.ps-0
+        h3.mb-0 Importancia en la gerencia de mercadeo
+
     p La gerencia de mercadeo es responsable de la gestión de la demanda, ya que sus decisiones influyen directamente en el nivel, momento y composición de esta. Algunos ejemplos de cómo actúa el departamento ante diversas situaciones incluyen:
     
     .row.justify-content-center.align-items-center.mb-5
@@ -213,8 +228,12 @@
                   h4 Demanda fluctuante
                   p.mb-3 Enfrentar variaciones estacionales o picos de demanda mediante precios flexibles, promoción u otros incentivos.
                  
-    
-    h3.mb-3 El departamento de mercadeo y su interacción dentro de la empresa
+    .row.align-items-center.subt.mb-4(data-aos="fade-left")
+      .col-2.col-md-auto
+        img(src='@/assets/curso/temas/t3/subt.svg', alt='')
+      .col-10.col-md-auto.ps-0
+        h3.mb-0 El departamento de mercadeo y su interacción dentro de la empresa
+ 
  
     .row.mb-2(data-aos='fade')
       .col-lg-5.pe-lg-0.d-none.d-lg-block
@@ -235,8 +254,12 @@
           |Coordinar con las finanzas la operatividad y funcionalidad de la empresa, siempre desde el interés de los clientes.
       p A menudo, existe incertidumbre sobre la autoridad que debe ejercer el departamento de mercadeo sobre los demás, siendo preferible un enfoque persuasivo en lugar de autoritario, ya que los departamentos suelen centrarse en sus propias tareas y prioridades.
     
-    
-    h3.mb-3 La mejor publicidad es la que hacen los clientes satisfechos
+    .row.align-items-center.subt.mb-4(data-aos="fade-left")
+      .col-2.col-md-auto
+        img(src='@/assets/curso/temas/t3/subt.svg', alt='')
+      .col-10.col-md-auto.ps-0
+        h3.mb-0 La mejor publicidad es la que hacen los clientes satisfechos
+  
     p La gerencia de mercadeo es responsable de la gestión de la demanda, ya que sus decisiones influyen directamente en el nivel, momento y composición de esta. Algunos ejemplos de cómo actúa el departamento ante diversas situaciones incluyen:     
       
     .row.justify-content-center.align-items-center.mb-5(data-aos='fade')
@@ -251,42 +274,45 @@
       .col-lg-7
         .row.justify-content-center.align-items-center.mb-5.p-4.bgimg5
           .col-lg-12
-            SlyderA(tipo="a").p-4.blanco.line
+          SlyderA(tipo="a").p-4.blanco.line
               .row.justify-content-center.align-items-center.p-4
                 .col-md-2.mb-4.mb-md-0
-                  img(src='@/assets/curso/temas/t3/img16.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/t3/img24.png', alt='Texto que describa la imagen')
                 .col.md-10.mb-4-md-0.mb-4
                   p.mb-3 Se forma un equipo de marca, tras un análisis extensivo de la situación el equipo establece los objetivos de mercadeo y una amplia estrategia.
               
               .row.justify-content-center.align-items-center.p-4
                 .col-md-2.mb-4.mb-md-0
-                  img(src='@/assets/curso/temas/t3/img17.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/t3/img25.png', alt='Texto que describa la imagen')
                 .col.md-10.mb-4-md-0.mb-4
                   p.mb-3 Después de estimar las ventas de marca y sus beneficios basados en la amplia estrategia, el equipo desarrolla una asignación inicial del presupuesto para publicidad, promoción al consumidor y promoción comercial.
               
               .row.justify-content-center.align-items-center.p-4
                 .col-md-2.mb-4.mb-md-0
-                  img(src='@/assets/curso/temas/t3/img18.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/t3/img26.png', alt='Texto que describa la imagen')
                 .col.md-10.mb-4-md-0.mb-4
                   p.mb-3 El equipo se apoya en la asignación del presupuesto del año anterior, lo que puede tener sentido si el entorno es estable, solicitando un nuevo conjunto de puntos de partida.
                      
               .row.justify-content-center.align-items-center.p-4
                 .col-md-2.mb-4.mb-md-0
-                  img(src='@/assets/curso/temas/t3/img19.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/t3/img27.png', alt='Texto que describa la imagen')
                 .col.md-10.mb-4-md-0.mb-4
                   p.mb-3 Se presenta el plan de marca a la dirección general, que puede solicitar cambios. El plan revisado se implementa luego.
               
               .row.justify-content-center.align-items-center.p-4
                 .col-md-2.mb-4.mb-md-0
-                  img(src='@/assets/curso/temas/t3/img20.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/t3/img28.png', alt='Texto que describa la imagen')
                 .col.md-10.mb-4-md-0.mb-4
                   p.mb-3 A lo largo del año, la dirección de mercadeo ajusta las asignaciones en respuesta a las variaciones de los competidores o de los clientes..
               
               .row.justify-content-center.align-items-center.p-4
                 .col-md-2.mb-4.mb-md-0
-                  img(src='@/assets/curso/temas/t3/img21.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/t3/img29.png', alt='Texto que describa la imagen')
                 .col.md-10.mb-4-md-0.mb-4
                   p.mb-3 Hacia el final del período, con frecuencia, se reemplaza por mayor promoción de ventas si la marca no está consiguiendo los objetivos de beneficio.
+    
+
+    
     
     
     .row.justify-content-center.align-items-center.mb-5(data-aos='fade')
@@ -317,46 +343,288 @@
             i.fas.fa-angle-right
             |Según los directores van teniendo mayor experiencia con la empresa, tienden a asignar proporcionalmente más parte de su presupuesto a publicidad relacionada con el consumidor que a promoción de ventas.
 
+    Separador
+    .titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 3.3  La gerencia de los recursos humanos
+
+    p La gestión del recurso humano es clave para la administración y orientación del trabajo de los empleados en una organización. Desde esta perspectiva, la Gestión Humana surge como un sistema moderno que promueve el aprendizaje y el desarrollo de competencias personales a través de la coordinación del trabajo y la implementación de estrategias que mejoran el conocimiento.
+    p.mb-4 Entre las principales funciones de la Gestión Humana se destacan:
     
+    .row.justify-content-center.align-items-center.mb-5(data-aos='fade')
+      .col-lg-5
+        img(src='@/assets/curso/temas/t3/img23.png', alt='Texto que describa la imagen')
+      .col-lg-7
+        .row.justify-content-center.align-items-center.mb-5.p-4.bgimg5
+          .col-lg-12
+            SlyderA(tipo="a").p-4.blanco.line
+              .row.justify-content-center.align-items-center.p-4
+                .col-md-2.mb-4.mb-md-0
+                  img(src='@/assets/curso/temas/t3/img30.png', alt='Texto que describa la imagen')
+                .col.md-10.mb-4-md-0.mb-4
+                  h5 1. Administración de las relaciones humanas en el contexto empresarial
+                  p.mb-3 Facilitando la comprensión y el manejo de las interacciones humanas en el entorno laboral.
+              
+              .row.justify-content-center.align-items-center.p-4
+                .col-md-2.mb-4.mb-md-0
+                  img(src='@/assets/curso/temas/t3/img31.png', alt='Texto que describa la imagen')
+                .col.md-10.mb-4-md-0.mb-4
+                  h5 2. Desarrollo de competencias personales
+                  p.mb-3 Promoviendo el crecimiento profesional de los empleados mediante programas de capacitación y mejora continua.
+              
+              .row.justify-content-center.align-items-center.p-4
+                .col-md-2.mb-4.mb-md-0
+                  img(src='@/assets/curso/temas/t3/img32.png', alt='Texto que describa la imagen')
+                .col.md-10.mb-4-md-0.mb-4
+                  h5 3. Gestión eficiente y coordinada del personal
+                  p.mb-3 Orientando al equipo hacia el logro de la eficacia organizacional mediante el trabajo grupal y coordinado.
+                     
+              .row.justify-content-center.align-items-center.p-4
+                .col-md-2.mb-4.mb-md-0
+                  img(src='@/assets/curso/temas/t3/img33.png', alt='Texto que describa la imagen')
+                .col.md-10.mb-4-md-0.mb-4
+                  h5 4. Contribución al éxito empresarial
+                  p.mb-3 Asegurando que la empresa responda eficazmente a las demandas del entorno mediante el manejo adecuado de los recursos humanos. 
+              
     
+    .row.justify-content-center.align-items-center.mb-2(data-aos='fade')
+      .col-lg-12
+        .cajon.color-primario.p-4.mb-4
+          p La eficiencia es un principio fundamental para cualquier empleado que ingresa a una organización, y los gerentes de gestión humana deben guiar al personal hacia la eficacia, mediante la colaboración y el trabajo en equipo. El objetivo final es garantizar la efectividad organizacional, respondiendo adecuadamente a las demandas externas.
     
+    p Además, como propósito central de la gestión del desarrollo humano se identifican los siguientes aspectos:
     
+    .row.align-items-center.justify-content-center.mb-4
+      .col-lg-8.col-md-6.col-12 
+        .tarjeta--container.row.mb-2
+          .col-md.tarjeta.bg6
+            .row.justify-content-center.p-4
+              .col-lg-4
+                figure
+                  img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/temas/t3/img35.png', alt='Texto que describa la imagen')
+            .row.justify-content-center.mb-3
+              .col-lg-10
+                p.text-center Orientar el potencial de conocimientos, valores y comunicación dentro de la empresa.
     
+          .col-md.tarjeta.bg3
+            .row.justify-content-center.p-4
+              .col-lg-4
+                figure
+                  img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/temas/t3/img34.png', alt='Texto que describa la imagen')
+            .row.justify-content-center.mb-3
+              .col-lg-10
+                p.text-center Contribuir a la calidad del servicio ofrecido a los clientes, mejorando la vida y satisfacción tanto de empleados como de usuarios.
+        
+    p.mb-4 Esta área debe brindar asistencia y asesoramiento en temas relacionados con el personal, apoyándose en una autoridad profesional que esté basada en:
     
+    .row.justify-content-center.mb-5(data-aos="fade-down")
+      .col-sm-6.col-lg-3.mb-4.mb-lg-0
+        .tarjeta--boton.color-acento-contenido.p-4.h-100.bg3.t3
+          .row.justify-content-center.mb-3
+            .col-5.img-deco
+              img(src='@/assets/curso/temas/t3/boton1.png', alt='')
+          h4.text-center Ética.
+   
+      
+      .col-sm-6.col-lg-3.mb-4.mb-lg-0
+        .tarjeta--boton.color-acento-contenido.p-4.h-100.bg3.t3
+          .row.justify-content-center.mb-3
+            .col-5.img-deco
+              img(src='@/assets/curso/temas/t3/boton2.png', alt='')
+          h4.text-center Respeto mutuo.
+   
+      
+      .col-sm-6.col-lg-3.mb-4.mb-lg-0
+        .tarjeta--boton.color-acento-contenido.p-4.h-100.bg3.t3
+          .row.justify-content-center.mb-3
+            .col-5.img-deco
+              img(src='@/assets/curso/temas/t3/boton3.png', alt='')
+          h4.text-center Confidencialidad de los datos.
     
+    .row.align-items-center.subt.mb-4(data-aos="fade-left")
+      .col-2.col-md-auto
+        img(src='@/assets/curso/temas/t3/subt.svg', alt='')
+      .col-10.col-md-auto.ps-0
+        h3.mb-0 El porqué de la gerencia de los recursos humanos
     
+    p.mb-4 La diferencia entre simplemente gestionar una empresa y liderar su crecimiento, con o sin abundantes recursos, recae en el apoyo del equipo de trabajo. La dirección efectiva de una empresa depende del manejo adecuado del recurso humano, con un enfoque en:   
+
+
+    .row.justify-content-center.mb-5(data-aos="fade-down")
+      .col-sm-6.col-lg-3.mb-4.mb-lg-0
+        .tarjeta--boton.color-acento-contenido.p-4.h-100.bg3.t3
+          .row.justify-content-center.mb-3
+            .col-5.img-deco
+              img(src='@/assets/curso/temas/t3/boton1.svg', alt='')
+          h4.text-center Motivación.
+      
+      .col-sm-6.col-lg-3.mb-4.mb-lg-0
+        .tarjeta--boton.color-acento-contenido.p-4.h-100.bg3.t3
+          .row.justify-content-center.mb-3
+            .col-5.img-deco
+              img(src='@/assets/curso/temas/t3/boton2.svg', alt='')
+          h4.text-center Comunicación.
+         
+      .col-sm-6.col-lg-3.mb-4.mb-lg-0
+        .tarjeta--boton.color-acento-contenido.p-4.h-100.bg3.t3
+          .row.justify-content-center.mb-3
+            .col-5.img-deco
+              img(src='@/assets/curso/temas/t3/boton3.svg', alt='')
+          h4.text-center Toma de decisiones.
+   
+    .row.justify-content-center.mb-5(data-aos="fade-down")
+      .col-sm-6.col-lg-3.mb-4.mb-lg-0
+        .tarjeta--boton.color-acento-contenido.p-4.h-100.bg3.t3
+          .row.justify-content-center.mb-3
+            .col-5.img-deco
+              img(src='@/assets/curso/temas/t3/boton4.svg', alt='')
+          h4.text-center Capacitación.
     
+      .col-sm-6.col-lg-3.mb-4.mb-lg-0
+        .tarjeta--boton.color-acento-contenido.p-4.h-100.bg3.t3
+          .row.justify-content-center.mb-3
+            .col-5.img-deco
+              img(src='@/assets/curso/temas/t3/boton5.svg', alt='')
+          h4.text-center Innovación.
+      
+      .col-sm-6.col-lg-3.mb-4.mb-lg-0
+        .tarjeta--boton.color-acento-contenido.p-4.h-100.bg3.t3
+          .row.justify-content-center.mb-3
+            .col-5.img-deco
+              img(src='@/assets/curso/temas/t3/boton6.svg', alt='')
+          h4.text-center Desarrollo integral de cada individuo.
     
+    p La gerencia debe ir más allá de lo material y automatizado, reconociendo el valor de los aspectos humanos, emocionales y culturales para el éxito empresarial.
+    p.mb-4 En empresas pequeñas, puede no ser viable contar con un especialista en recursos humanos a tiempo completo, pero a medida que la organización crece, las situaciones relacionadas con el manejo del personal pueden incrementar y volverse más complejas. Esto lleva a la necesidad de integrar a los procesos de la organización una gerencia o administración de recursos humanos, especialmente cuando se presentan factores como:     
     
+    .row
+      .col-lg-4.d-none.d-lg-block(data-aos="fade-right")
+        img(src='@/assets/curso/temas/t3/img36.png', alt='')
+      .col-lg-8(data-aos="fade-left")
+        AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+
+          .row.justify-content-end(titulo="Alta rotación de personal. ")
+            .col-lg-11.ps-lg-0
+              p Este factor puede generar costos elevados de contratación y afecta la estabilidad y productividad del equipo.
+          .row.justify-content-end(titulo="Gran número de empleados.")
+            .col-lg-11.ps-lg-0
+              p A medida que crece el número de trabajadores, se vuelve más difícil administrar a todos de manera efectiva, lo que requiere una gestión especializada de recursos humanos.
+          .row.justify-content-end(titulo="Necesidad de capacitación continua.")
+            .col-lg-11.ps-lg-0
+              p Las empresas necesitan actualizar constantemente las habilidades de sus empleados para mantener su competitividad.
+          .row.justify-content-end(titulo="Estado de ánimo insatisfactorio en la plantilla.")
+            .col-lg-11.ps-lg-0
+              p Un ambiente laboral negativo afecta la motivación, el rendimiento y puede aumentar el ausentismo o la rotación.
+    .py-2    
+    p La gerencia debe ir más allá de lo material y automatizado, reconociendo el valor de los aspectos humanos, emocionales y culturales para el éxito empresarial.
+    p.mb-4 En empresas pequeñas, puede no ser viable contar con un especialista en recursos humanos a tiempo completo, pero a medida que la organización crece, las situaciones relacionadas con el manejo del personal pueden incrementar y volverse más complejas. Esto lleva a la necesidad de integrar a los procesos de la organización una gerencia o administración de recursos humanos, especialmente cuando se presentan factores como: 
+
+    .row.align-items-center.subt.mb-4(data-aos="fade-left")
+      .col-2.col-md-auto
+        img(src='@/assets/curso/temas/t3/subt.svg', alt='')
+      .col-10.col-md-auto.ps-0
+        h3.mb-0 La importancia de la retribución salarial para el recurso humano
     
+    p Los planes de incentivos grupales pueden ser una poderosa herramienta de motivación si establecen metas claras, importantes y alcanzables para los empleados. Para ejemplificar este proceso, se presenta la siguiente situación: 
+    p El gerente general y el gerente de recursos humanos de una empresa de plásticos diseñaron un plan de incentivos al enfrentar un preocupante aumento en los costos de producción.
+    p.mb-5 Descripción del plan de incentivos:
+   
+    .row.align-items-center.justify-content-center.mb-4
+      .col-lg-8.col-md-6.col-12 
+        .tarjeta--container.row.mb-2
+          .col-md.tarjeta.bg6
+            .row.justify-content-center.p-4
+              .col-lg-4
+                figure
+                  img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/temas/t3/img37.png', alt='Texto que describa la imagen')
+            .row.justify-content-center.mb-3
+              .col-lg-10
+                h5.text-center Meta principal
+                p.text-center Reducir los costos de los productos por debajo del 35% de las ventas totales.
     
+          .col-md.tarjeta.bg3
+            .row.justify-content-center.p-4
+              .col-lg-4
+                figure
+                  img.img-a.img-t.d-none.d-lg-block(src='@/assets/curso/temas/t3/img38.png', alt='Texto que describa la imagen')
+            .row.justify-content-center.mb-3
+              .col-lg-10
+                h5.text-center Incentivo ofrecido
+                p.text-center Dividir los ahorros obtenidos entre los empleados si lograban alcanzar la meta.
+      .col-lg-8.col-md-8.col-12      
+        .tarjeta--container.row.mb-2
+          .col-md.tarjeta.bg8
+            .row.justify-content-center.p-4
+              .col-lg-10
+                h5.text-center Resultados iniciales:
+                ul.lista-ul--color
+                  li
+                    i.fas.fa-angle-right
+                    |En el primer mes, los costos se redujeron en un 1.7%.
+                ul.lista-ul--color
+                  li
+                    i.fas.fa-angle-right
+                    |Los empleados recibieron $400,000 cada uno como parte del nuevo plan de participación de utilidades.
+
+    .row.justify-content-center.align-items-center.mb-2(data-aos='fade')
+      .col-lg-12
+        .cajon.color-primario.p-4.mb-4
+          p Desde el inicio del plan, los pagos mensuales a los empleados alcanzaron hasta $950,000, aunque hubo dos meses en los que no se generaron ganancias para repartir. La simplicidad de la meta y la relación de cooperación entre la administración y los empleados fueron factores clave para el éxito de este plan. 
     
+    p La gestión de la retribución es uno de los mayores desafíos para la administración interna de la empresa. Un buen programa de retribución no solo impacta en la rentabilidad de la empresa, sino también en la calidad de vida y motivación de los empleados. Aunque la motivación no es el objetivo directo de la empresa, sus efectos en la eficacia organizacional son notables.
     
+    .row.align-items-center.subt.mb-4(data-aos="fade-left")
+      .col-2.col-md-auto
+        img(src='@/assets/curso/temas/t3/subt.svg', alt='')
+      .col-10.col-md-auto.ps-0
+        h3.mb-0 Factores clave de un programa de retribución efectivo:
+    p.mb-4 La ejecución de un programa de retribución exitoso requiere por parte de la organización considerar los siguientes factores clave:
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+    .row.justify-content-center.align-items-center.mb-3(data-aos='fade')
+      .col-lg-5
+        img(src='@/assets/curso/temas/t3/img39.png', alt='Texto que describa la imagen')
+      .col-lg-7
+        .row.justify-content-center.align-items-center.mb-5.p-4.bgimg5
+          .col-lg-12
+            SlyderA(tipo="a").p-4.blanco.line
+              .row.justify-content-center.align-items-center.p-4
+                .col-md-2.mb-4.mb-md-0
+                  img(src='@/assets/curso/temas/t3/img40.png', alt='Texto que describa la imagen')
+                .col.md-10.mb-4-md-0.mb-4
+                  h5 Motivación
+                  p.mb-3 • Un programa de retribución bien diseñado puede equilibrar la rentabilidad de la empresa con la mejora de la calidad de vida de los empleados.
+                  p • La motivación de los empleados influye directamente en su desempeño y en los resultados globales de la empresa.
+
+              
+              .row.justify-content-center.align-items-center.p-4
+                .col-md-2.mb-4.mb-md-0
+                  img(src='@/assets/curso/temas/t3/img41.png', alt='Texto que describa la imagen')
+                .col.md-10.mb-4-md-0.mb-4
+                  h5 Salarios dinámicos
+                  p.mb-3 • Los salarios no deben ser estáticos, sino ajustarse a las circunstancias socioeconómicas de la empresa.
+                  p • Deben ser una fuente continua de motivación para los empleados.
+
+              
+              .row.justify-content-center.align-items-center.p-4
+                .col-md-2.mb-4.mb-md-0
+                  img(src='@/assets/curso/temas/t3/img42.png', alt='Texto que describa la imagen')
+                .col.md-10.mb-4-md-0.mb-4
+                  h5 Revisión salarial
+                  p.mb-3 • Es imprescindible realizar revisiones salariales periódicas, basadas en el rendimiento individual de los empleados.
+                  p • Estas revisiones deben ser diferenciadas: los empleados con mayor desempeño deben recibir incrementos más altos, mientras que aquellos que no alcancen los objetivos verán un aumento menor.
+
+                     
+              .row.justify-content-center.align-items-center.p-4
+                .col-md-2.mb-4.mb-md-0
+                  img(src='@/assets/curso/temas/t3/img43.png', alt='Texto que describa la imagen')
+                .col.md-10.mb-4-md-0.mb-4
+                  h5 Modelo de remuneración mixto
+                  p.mb-3 • En algunos casos, la remuneración puede consistir en un salario base relativamente bajo, que se complementa con beneficios adicionales que dependen del buen desempeño del empleado. 
+              
+       
+    .row.justify-content-center.align-items-center.mb-2(data-aos='fade')
+      .col-lg-12
+        .cajon.color-acento-contenido.p-4.mb-4
+          p Desde el inicio del plan, los pagos mensuales a los empleados alcanzaron hasta $950,000, aunque hubo dos meses en los que no se generaron ganancias para repartir. La simplicidad de la meta y la relación de cooperación entre la administración y los empleados fueron factores clave para el éxito de este plan.     
     
     
     

@@ -57,8 +57,12 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
       .col-lg-12
         p Establecer el alcance, contexto y criterios en la gestión de riesgos tiene como propósito ajustar el proceso de manera que permita una evaluación precisa y un tratamiento eficaz de los riesgos. Definir el alcance implica identificar los límites y objetivos del proceso, mientras que el análisis del contexto externo e interno permite entender los factores que afectan a la organización. Esto garantiza que las decisiones estén alineadas con las circunstancias y necesidades específicas, facilitando la adaptación de estrategias y recursos para abordar los riesgos de manera efectiva.
-    
-    h3 Alcance
+   
+    .row.align-items-center.subt.mb-4(data-aos="fade-left")
+      .col-2.col-md-auto
+        img(src='@/assets/curso/temas/t3/subt.svg', alt='')
+      .col-10.col-md-auto.ps-0
+        h3.mb-0 Alcance
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
       .col-lg-12 
@@ -115,8 +119,13 @@
             .row.justify-content-center
               .col-lg-10
                 h5.text-center Recursos necesarios         
-            
-    h3 Contexto
+    
+    .row.align-items-center.subt.mb-4(data-aos="fade-left")
+      .col-2.col-md-auto
+        img(src='@/assets/curso/temas/t3/subt.svg', alt='')
+      .col-10.col-md-auto.ps-0
+        h3.mb-0 Contexto           
+  
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
       .col-lg-12 
@@ -126,7 +135,7 @@
     .row.justify-content-center.align-items-center.mb-5.p-4.bgimg2
       .col-lg-12.p-4
           SlyderA(tipo="b").p-4.blanco.line
-            .row.justify-content-center.align-items-center
+            .row.justify-content-center.align-items-center.line
               .col-md-9.mb-4.mb-md-0
                 h3 Contexto externo
                 p El análisis del contexto externo de la organización puede incluir, pero no limitarse a:
@@ -151,11 +160,11 @@
                 figure
                   img(src='@/assets/curso/temas/t2/img09.png', alt='Texto que describa la imagen')
             
-            .row.justify-content-center.align-items-center.blanco.p-4
+            .row.justify-content-center.align-items-center.blanco.p-4.line
               .col-md-9.mb-4.mb-md-0
                 h3 Contexto interno
                 p El análisis del contexto interno de la organización puede incluir, pero no limitarse a:
-                ul.lista-ul--color
+                ul.lista-ul--color.text-small
                   li
                     i.fas.fa-angle-right
                     |La visión, la misión y los valores.
@@ -208,8 +217,13 @@
           span  Contexto del proceso de gestión de riesgo
         img(src='@/assets/curso/temas/t2/img011.png', alt='')
         .py-2
-      
-    h3 Criterios
+    
+    .row.align-items-center.subt.mb-4(data-aos="fade-left")
+      .col-2.col-md-auto
+        img(src='@/assets/curso/temas/t3/subt.svg', alt='')
+      .col-10.col-md-auto.ps-0
+        h3.mb-0 Criterios 
+
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
       .col-lg-9

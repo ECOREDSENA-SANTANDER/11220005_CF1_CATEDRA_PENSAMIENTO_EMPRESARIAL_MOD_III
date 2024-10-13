@@ -68,8 +68,13 @@
         .py-2
       p.text-center Nota. Adaptada de NTC-ISO 31000 (2018). https://e-collection-icontec-org.bdigital.sena.edu.co/normavw.aspx?ID=74790
     
-      h4  Liderazgo y compromiso
-      p El liderazgo y compromiso de la alta dirección son esenciales para integrar la gestión de riesgos en todas las actividades de la organización. La dirección debe garantizar que los recursos necesarios estén disponibles, establecer políticas claras y asignar responsabilidades en todos los niveles. Esto alinea la gestión del riesgo con los objetivos y cultura organizacional, promoviendo un monitoreo constante de los riesgos y asegurando que el marco de gestión se adapte al contexto empresarial. Además, los órganos de supervisión deben asegurar que los riesgos se gestionen adecuadamente y se comuniquen de manera eficaz, y para lograr esto, debe soportarse en los componentes que se describen a continuación:
+    .row.align-items-center.subt.mb-4(data-aos="fade-left")
+      .col-2.col-md-auto
+        img(src='@/assets/curso/temas/t3/subt.svg', alt='')
+      .col-10.col-md-auto.ps-0
+        h3.mb-0 Liderazgo y compromiso
+
+    p El liderazgo y compromiso de la alta dirección son esenciales para integrar la gestión de riesgos en todas las actividades de la organización. La dirección debe garantizar que los recursos necesarios estén disponibles, establecer políticas claras y asignar responsabilidades en todos los niveles. Esto alinea la gestión del riesgo con los objetivos y cultura organizacional, promoviendo un monitoreo constante de los riesgos y asegurando que el marco de gestión se adapte al contexto empresarial. Además, los órganos de supervisión deben asegurar que los riesgos se gestionen adecuadamente y se comuniquen de manera eficaz, y para lograr esto, debe soportarse en los componentes que se describen a continuación:
     
     TabsB.color-primario
       .py-4.py-md-5(titulo="Integración" :icono="require('@/assets/curso/temas/t1/ico1.png')")
