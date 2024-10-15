@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="194.293" height="361.982" viewBox="0 0 194.293 361.982">
+  <g id="Grupo_1102466" data-name="Grupo 1102466" transform="translate(-704.051 -1925.939)">
+    <path id="Trazado_912597" data-name="Trazado 912597" d="M3857.937-9509.1H3721.605" transform="translate(-2965.379 11584.922)" fill="none" stroke="#707070" stroke-width="1"/>
+    <rect id="Rectángulo_403447" data-name="Rectángulo 403447" width="136.973" height="106" transform="translate(755.634 2075.922)" fill="#ff5e00"/>
+    <path id="Rectángulo_403448" data-name="Rectángulo 403448" d="M0,0H136.973a0,0,0,0,1,0,0V91a15,15,0,0,1-15,15H15A15,15,0,0,1,0,91V0A0,0,0,0,1,0,0Z" transform="translate(755.634 2181.922)" fill="#73d33b"/>
+    <path id="Rectángulo_403449" data-name="Rectángulo 403449" d="M15,0H121.973a15,15,0,0,1,15,15v91a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V15A15,15,0,0,1,15,0Z" transform="translate(755.634 1969.922)" fill="#e50000"/>
+    <text id="Alta" transform="translate(807.759 2033.453)" fill="#fff" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Alta</tspan></text>
+    <text id="_1_00" data-name="1,00" transform="translate(704.051 1985.922)" fill="#e50000" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">1,00</tspan></text>
+    <text id="Probabilidad" transform="translate(774.845 1952.812)" fill="#12263f" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Probabilidad</tspan></text>
+    <text id="_0_67" data-name="0,67" transform="translate(704.051 2069.922)" fill="#e50000" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">0,67</tspan></text>
+    <text id="_0_66" data-name="0,66" transform="translate(704.051 2091.922)" fill="#ff5e00" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">0,66</tspan></text>
+    <text id="_0_34" data-name="0,34" transform="translate(704.051 2175.922)" fill="#ff5e00" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">0,34</tspan></text>
+    <text id="_0_33" data-name="0,33" transform="translate(704.051 2197.922)" fill="#73d33b" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">0,33</tspan></text>
+    <text id="_0_01" data-name="0,01" transform="translate(704.051 2281.922)" fill="#73d33b" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">0,01</tspan></text>
+    <text id="Media" transform="translate(799.932 2132.922)" fill="#fff" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Media</tspan></text>
+    <text id="Baja" transform="translate(806.781 2238.922)" fill="#fff" font-size="17" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Baja</tspan></text>
+    <path id="Trazado_912598" data-name="Trazado 912598" d="M3721.338-9509.1h-12.117" transform="translate(-2965.112 11690.922)" fill="none" stroke="#707070" stroke-width="1"/>
+    <path id="Trazado_912599" data-name="Trazado 912599" d="M3721.338-9509.1h-12.117" transform="translate(-2965.112 11585.019)" fill="none" stroke="#707070" stroke-width="1"/>
+    <path id="Trazado_912600" data-name="Trazado 912600" d="M3721.338-9509.1h-12.117" transform="translate(-2959.325 11435.536)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="1"/>
+  </g>
+</svg>
