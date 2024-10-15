@@ -22,7 +22,7 @@
         p Establecer una estructura gerencial adecuada es fundamental para garantizar una posición competitiva. Esta estructura debe basarse en la innovación, la creatividad, la búsqueda de alternativas y la sensibilización frente a posibles problemas, protegiendo los intereses de la empresa mediante una gestión del riesgo efectiva. Este enfoque no solo permite la identificación de amenazas, sino que también abre oportunidades de mejora, logrando una toma de decisiones más acertada.
         p El análisis de riesgos permite a la gerencia prever eventos críticos, ya sean desastres naturales, fallos en infraestructura o riesgos causados por el personal. Además, la conformación de comunidades de talento y la adecuada gerencia de recursos humanos son esenciales para identificar estos riesgos y gestionar sus consecuencias. Este enfoque debe estar alineado con los objetivos corporativos, asegurando que la empresa pueda implementar un plan de mejoramiento continuo. Así, se subraya la importancia de la gestión de recursos humanos en la mitigación y manejo efectivo de los riesgos, logrando una mayor estabilidad organizacional y el cumplimiento de las metas.
         p Este enfoque, aplicado de manera integral permite que las organizaciones puedan anticipar desafíos y aplicar soluciones efectivas, asegurando así el cumplimiento de sus objetivos en un entorno cada vez más incierto.
-      .col-lg-3
+      .col-lg-3.col-7
         img(src='@/assets/curso/portada/img02.png', alt='')
     
 </template>

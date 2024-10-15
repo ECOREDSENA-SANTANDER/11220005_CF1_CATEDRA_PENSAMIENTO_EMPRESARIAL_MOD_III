@@ -27,7 +27,7 @@
             i.fas.fa-angle-right
             | Configurar la empresa en tres dimensiones:. 
     
-      .col-lg-3
+      .col-lg-3.col-8.col-sm-6
         img(src='@/assets/curso/temas/t3/img01.png', alt='')
       .col-lg-9
         ol.lista-ol--cuadro
@@ -49,7 +49,7 @@
       h5 Figura 5. 
       span Estrategia empresarial
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-8
+      .col-lg-8.col-11
         ImagenInfografica.color-secundario.mb-2
           template(v-slot:imagen)
             figure
@@ -162,7 +162,7 @@
             i.fas.fa-angle-right
             |Pensando en el futuro, ¿cuál es nuestro negocio actual?, ¿cuál será? y ¿cuál debería ser?
       
-      .col-lg-5.mb-3
+      .col-lg-5.mb-3.col-9
         img(src='@/assets/curso/temas/t3/img08.png', alt='Texto que describa la imagen')
       p La planeación estratégica es un proceso gerencial que busca alinear los objetivos y recursos de la empresa con las oportunidades cambiantes del mercado. Para llevar a cabo esta planeación de manera efectiva, es necesario realizar un análisis externo que permita maximizar las oportunidades y minimizar las amenazas del entorno, así como un análisis interno para identificar las fortalezas y mitigar las debilidades. Con estos análisis, la empresa puede formular una postura estratégica que le permita aprovechar al máximo sus recursos y asegurar su competitividad en el mercado.
     Separador
@@ -201,28 +201,28 @@
     p La gerencia de mercadeo es responsable de la gestión de la demanda, ya que sus decisiones influyen directamente en el nivel, momento y composición de esta. Algunos ejemplos de cómo actúa el departamento ante diversas situaciones incluyen:
     
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-5
+      .col-lg-5.col-9.mb-2
         img(src='@/assets/curso/temas/t3/img10.png', alt='Texto que describa la imagen')
       .col-lg-7
         .row.justify-content-center.align-items-center.mb-5.p-3.bgimg5
           .col-lg-12
             SlyderA(tipo="a").p-4.blanco.line
               .row.justify-content-center.align-items-center.p-4
-                .col-md-2.mb-4.mb-md-0
+                .col-md-2.mb-4.mb-md-0.col-4
                   img(src='@/assets/curso/temas/t3/img11.png', alt='Texto que describa la imagen')
                 .col.md-10.mb-4-md-0.mb-4
                   h4 Mercados con rechazo al producto
                   p.mb-3 Como en el caso de vacunas o clínicas dentales, donde el mercadeo debe identificar las causas de rechazo y trabajar en rediseño, precios o promoción para cambiar las actitudes del consumidor.
               
               .row.justify-content-center.align-items-center.p-4
-                .col-md-2.mb-4.mb-md-0
+                .col-md-2.mb-4.mb-md-0.col-4
                   img(src='@/assets/curso/temas/t3/img12.png', alt='Texto que describa la imagen')
                 .col.md-10.mb-4-md-0.mb-4
                   h4 Indiferencia hacia el producto
                   p.mb-3 Buscar conectar los beneficios del producto con las necesidades del mercado, como en el caso de los granjeros y los nuevos métodos de cuidado animal.
               
               .row.justify-content-center.align-items-center.p-4
-                .col-md-2.mb-4.mb-md-0
+                .col-md-2.mb-4.mb-md-0.col-4
                   img(src='@/assets/curso/temas/t3/img13.png', alt='Texto que describa la imagen')
                 .col.md-10.mb-4-md-0.mb-4
                   h4 Demanda fluctuante
@@ -269,44 +269,44 @@
         p Los diversos estudios realizados a la acción de directores de empresas de productos de gran consumo, acerca de cómo establecen su presupuesto de ventas y cómo lo asignan a publicidad, respecto de la promoción de ventas y promoción comercial, han concluido en los siguientes principios:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos='fade')
-      .col-lg-5
+      .col-lg-5.col-9.mb-3
         img(src='@/assets/curso/temas/t3/img15.png', alt='Texto que describa la imagen')
       .col-lg-7
         .row.justify-content-center.align-items-center.mb-5.p-4.bgimg5
           .col-lg-12
           SlyderA(tipo="a").p-4.blanco.line
               .row.justify-content-center.align-items-center.p-4
-                .col-md-2.mb-4.mb-md-0
+                .col-md-2.mb-4.mb-md-0.col-4
                   img(src='@/assets/curso/temas/t3/img24.png', alt='Texto que describa la imagen')
                 .col.md-10.mb-4-md-0.mb-4
                   p.mb-3 Se forma un equipo de marca, tras un análisis extensivo de la situación el equipo establece los objetivos de mercadeo y una amplia estrategia.
               
               .row.justify-content-center.align-items-center.p-4
-                .col-md-2.mb-4.mb-md-0
+                .col-md-2.mb-4.mb-md-0.col-4
                   img(src='@/assets/curso/temas/t3/img25.png', alt='Texto que describa la imagen')
                 .col.md-10.mb-4-md-0.mb-4
                   p.mb-3 Después de estimar las ventas de marca y sus beneficios basados en la amplia estrategia, el equipo desarrolla una asignación inicial del presupuesto para publicidad, promoción al consumidor y promoción comercial.
               
               .row.justify-content-center.align-items-center.p-4
-                .col-md-2.mb-4.mb-md-0
+                .col-md-2.mb-4.mb-md-0.col-4
                   img(src='@/assets/curso/temas/t3/img26.png', alt='Texto que describa la imagen')
                 .col.md-10.mb-4-md-0.mb-4
                   p.mb-3 El equipo se apoya en la asignación del presupuesto del año anterior, lo que puede tener sentido si el entorno es estable, solicitando un nuevo conjunto de puntos de partida.
                      
               .row.justify-content-center.align-items-center.p-4
-                .col-md-2.mb-4.mb-md-0
+                .col-md-2.mb-4.mb-md-0.col-4
                   img(src='@/assets/curso/temas/t3/img27.png', alt='Texto que describa la imagen')
                 .col.md-10.mb-4-md-0.mb-4
                   p.mb-3 Se presenta el plan de marca a la dirección general, que puede solicitar cambios. El plan revisado se implementa luego.
               
               .row.justify-content-center.align-items-center.p-4
-                .col-md-2.mb-4.mb-md-0
+                .col-md-2.mb-4.mb-md-0.col-4
                   img(src='@/assets/curso/temas/t3/img28.png', alt='Texto que describa la imagen')
                 .col.md-10.mb-4-md-0.mb-4
                   p.mb-3 A lo largo del año, la dirección de mercadeo ajusta las asignaciones en respuesta a las variaciones de los competidores o de los clientes..
               
               .row.justify-content-center.align-items-center.p-4
-                .col-md-2.mb-4.mb-md-0
+                .col-md-2.mb-4.mb-md-0.col-4
                   img(src='@/assets/curso/temas/t3/img29.png', alt='Texto que describa la imagen')
                 .col.md-10.mb-4-md-0.mb-4
                   p.mb-3 Hacia el final del período, con frecuencia, se reemplaza por mayor promoción de ventas si la marca no está consiguiendo los objetivos de beneficio.
@@ -316,7 +316,7 @@
     
     
     .row.justify-content-center.align-items-center.mb-5(data-aos='fade')
-      .col-lg-4
+      .col-lg-4.col-8.mb-3
         img(src='@/assets/curso/temas/t3/img22.png', alt='Texto que describa la imagen')
       .col-lg-8
         h5.mb-4 Igualmente, la evaluación a directores arrojó los siguientes consejos:
@@ -351,35 +351,35 @@
     p.mb-4 Entre las principales funciones de la Gestión Humana se destacan:
     
     .row.justify-content-center.align-items-center.mb-5(data-aos='fade')
-      .col-lg-5
+      .col-lg-5.col-9.mb-3
         img(src='@/assets/curso/temas/t3/img23.png', alt='Texto que describa la imagen')
       .col-lg-7
         .row.justify-content-center.align-items-center.mb-5.p-4.bgimg5
           .col-lg-12
             SlyderA(tipo="a").p-4.blanco.line
               .row.justify-content-center.align-items-center.p-4
-                .col-md-2.mb-4.mb-md-0
+                .col-md-2.mb-4.mb-md-0.col-4
                   img(src='@/assets/curso/temas/t3/img30.png', alt='Texto que describa la imagen')
                 .col.md-10.mb-4-md-0.mb-4
                   h5 1. Administración de las relaciones humanas en el contexto empresarial
                   p.mb-3 Facilitando la comprensión y el manejo de las interacciones humanas en el entorno laboral.
               
               .row.justify-content-center.align-items-center.p-4
-                .col-md-2.mb-4.mb-md-0
+                .col-md-2.mb-4.mb-md-0.col-4
                   img(src='@/assets/curso/temas/t3/img31.png', alt='Texto que describa la imagen')
                 .col.md-10.mb-4-md-0.mb-4
                   h5 2. Desarrollo de competencias personales
                   p.mb-3 Promoviendo el crecimiento profesional de los empleados mediante programas de capacitación y mejora continua.
               
               .row.justify-content-center.align-items-center.p-4
-                .col-md-2.mb-4.mb-md-0
+                .col-md-2.mb-4.mb-md-0.col-4
                   img(src='@/assets/curso/temas/t3/img32.png', alt='Texto que describa la imagen')
                 .col.md-10.mb-4-md-0.mb-4
                   h5 3. Gestión eficiente y coordinada del personal
                   p.mb-3 Orientando al equipo hacia el logro de la eficacia organizacional mediante el trabajo grupal y coordinado.
                      
               .row.justify-content-center.align-items-center.p-4
-                .col-md-2.mb-4.mb-md-0
+                .col-md-2.mb-4.mb-md-0.col-4
                   img(src='@/assets/curso/temas/t3/img33.png', alt='Texto que describa la imagen')
                 .col.md-10.mb-4-md-0.mb-4
                   h5 4. Contribución al éxito empresarial
@@ -580,14 +580,14 @@
     p.mb-4 La ejecución de un programa de retribución exitoso requiere por parte de la organización considerar los siguientes factores clave:
     
     .row.justify-content-center.align-items-center.mb-3(data-aos='fade')
-      .col-lg-5
+      .col-lg-5.col-8.mb-3
         img(src='@/assets/curso/temas/t3/img39.png', alt='Texto que describa la imagen')
       .col-lg-7
         .row.justify-content-center.align-items-center.mb-5.p-4.bgimg5
           .col-lg-12
             SlyderA(tipo="a").p-4.blanco.line
               .row.justify-content-center.align-items-center.p-4
-                .col-md-2.mb-4.mb-md-0
+                .col-md-2.mb-4.mb-md-0.col-4
                   img(src='@/assets/curso/temas/t3/img40.png', alt='Texto que describa la imagen')
                 .col.md-10.mb-4-md-0.mb-4
                   h5 Motivación
@@ -596,7 +596,7 @@
 
               
               .row.justify-content-center.align-items-center.p-4
-                .col-md-2.mb-4.mb-md-0
+                .col-md-2.mb-4.mb-md-0.col-4
                   img(src='@/assets/curso/temas/t3/img41.png', alt='Texto que describa la imagen')
                 .col.md-10.mb-4-md-0.mb-4
                   h5 Salarios dinámicos
@@ -605,7 +605,7 @@
 
               
               .row.justify-content-center.align-items-center.p-4
-                .col-md-2.mb-4.mb-md-0
+                .col-md-2.mb-4.mb-md-0.col-4
                   img(src='@/assets/curso/temas/t3/img42.png', alt='Texto que describa la imagen')
                 .col.md-10.mb-4-md-0.mb-4
                   h5 Revisión salarial
@@ -614,7 +614,7 @@
 
                      
               .row.justify-content-center.align-items-center.p-4
-                .col-md-2.mb-4.mb-md-0
+                .col-md-2.mb-4.mb-md-0.col-4
                   img(src='@/assets/curso/temas/t3/img43.png', alt='Texto que describa la imagen')
                 .col.md-10.mb-4-md-0.mb-4
                   h5 Modelo de remuneración mixto

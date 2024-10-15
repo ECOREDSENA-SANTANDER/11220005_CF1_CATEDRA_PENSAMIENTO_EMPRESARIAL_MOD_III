@@ -10,7 +10,7 @@
     p.mb-4 El proceso de gestión de riesgo, aplicado a cualquier actividad, empresa o proyecto, requiere la implementación e integración de diferentes políticas y procedimientos a actividades según se presenta en la Figura 2. Este proceso debe desarrollarse e incorporarse en la toma de decisiones y operaciones de la organización, lo que implica un impacto a nivel tanto estratégico como operativo, considerando el entorno externo e interno. Además, es dinámico y debe adaptarse a la naturaleza humana y cultural de la organización. Aunque el proceso parece secuencial, su implementación es iterativa y debe ajustarse continuamente a las necesidades de la empresa y su entorno cambiante. (NTC ISO – 31000, 2018).
     
     .row.justify-content-center.align-items-center.mb-5(data-aos='fade')
-      .col-lg-4
+      .col-lg-4.col-sm-8.col-9
         .titulo-sexto.color-acento-contenido
           h5 Figura 3.
           span  Proceso de la gestión del riesgo
@@ -47,7 +47,7 @@
             |Respetando la confidencialidad y la privacidad. 
 
         p Este proceso es fundamental para integrar diversas perspectivas, lo que permite una visión más completa y equilibrada en la gestión del riesgo. Además, garantiza una supervisión adecuada al involucrar a todas las partes interesadas, lo que no solo mejora la calidad de las decisiones, sino que también promueve la transparencia. Fomenta un sentido de inclusión y pertenencia entre los afectados por el riesgo, lo que fortalece el compromiso y la corresponsabilidad en la implementación de las acciones necesarias para mitigar posibles riesgos futuros.
-      .col-lg-3
+      .col-lg-3.col-sm-8.col-8
         img(src='@/assets/curso/temas/t2/img02.png', alt='')
     
     Separador
@@ -70,7 +70,7 @@
     
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-12
+      .col-lg-12.col-sm-6.col-8
         SlyderF.mb-5(columnas="col-lg-3 col-xl-3")(data-aos="zoom-in-left")
           .tarjeta.bgimg.p-4
             .row.justify-content-center
@@ -156,7 +156,7 @@
                     i.fas.fa-angle-right
                     |La complejidad de las redes y dependencias.
               
-              .col-md-3
+              .col-md-3.col-9
                 figure
                   img(src='@/assets/curso/temas/t2/img09.png', alt='Texto que describa la imagen')
             
@@ -205,13 +205,13 @@
                   li
                     i.fas.fa-angle-right
                     |Las interdependencias e interconexiones.
-              .col-md-3
+              .col-md-3.col-10
                 figure
                   img(src='@/assets/curso/temas/t2/img010.png', alt='Texto que describa la imagen')        
 
     
     .row.justify-content-center.align-items-center.mb-5(data-aos='fade')
-      .col-lg-8
+      .col-lg-8.col-sm-11
         .titulo-sexto.color-acento-contenido
           h5 Figura 4. 
           span  Contexto del proceso de gestión de riesgo
@@ -253,7 +253,7 @@
           li
             i.fas.fa-angle-right
             |La capacidad de la organización.
-      .col-lg-3
+      .col-lg-3.col-sm-9.col-9
        img(src='@/assets/curso/temas/t2/img012.png', alt='')
     
     

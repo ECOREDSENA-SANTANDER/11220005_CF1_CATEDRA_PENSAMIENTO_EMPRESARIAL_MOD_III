@@ -14,7 +14,7 @@
       h5 Figura 1.
       span Principios
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4
+      .col-lg-4.col-10
         ImagenInfografica.color-secundario.mb-5
           template(v-slot:imagen)
             figure
@@ -60,7 +60,7 @@
       p En el marco definido por la NTC-ISO 31000 se consideran los siguientes componentes que actúan en función del liderazgo y compromiso organizacional: 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos='fade')
-      .col-lg-4
+      .col-lg-4.col-10
         .titulo-sexto.color-acento-contenido
           h5 Figura 2.
           span Marco de referencia
@@ -78,7 +78,7 @@
     
     TabsB.color-primario
       .py-4.py-md-5(titulo="Integración" :icono="require('@/assets/curso/temas/t1/ico1.png')")
-        .row
+        .row.justify-content-center
           .col-md-8.mb-4.mb-md-0
             h4 Integración
             p La integración de la gestión de riesgos en una organización implica comprender su estructura y contexto. Cada miembro es responsable de gestionar riesgos, adaptando este proceso a:
@@ -86,47 +86,47 @@
             p • La gobernanza
             p • Y la cultura de la empresa 
             p Las estructuras de gestión convierten las directrices administrativas, en estrategias sostenibles a largo plazo. Este proceso dinámico y continuo asegura que la gestión de riesgos esté alineada con los propósitos, operaciones y liderazgo de la organización, evitando que se trate como un componente aislado del funcionamiento global de la entidad.
-          .col-md-4
+          .col-md-4.col-8
             figure
               img(src='@/assets/curso/temas/t1/img02.svg', alt='Texto que describa la imagen')
       
       .py-4.py-md-5(titulo="Diseño" :icono="require('@/assets/curso/temas/t1/ico2.png')")
-        .row
+        .row.justify-content-center
           .col-md-8.mb-4.mb-md-0
             h4 Diseño
             p Para diseñar un marco de referencia adecuado para la gestión del riesgo, es esencial que la organización entienda tanto su contexto interno como externo, considerando factores sociales, políticos, económicos y culturales. La alta dirección debe demostrar su compromiso con la gestión de riesgos a través de políticas claras, la asignación de roles y recursos adecuados, y el establecimiento de canales efectivos de comunicación y consulta. Estos elementos permiten integrar la gestión del riesgo en todas las áreas de la organización, asegurando que cada miembro tenga una responsabilidad activa en su implementación y seguimiento.
           
-          .col-md-4
+          .col-md-4.col-8
             figure
               img(src='@/assets/curso/temas/t1/img03.svg', alt='Texto que describa la imagen')
       
       .py-4.py-md-5(titulo="Implementación" :icono="require('@/assets/curso/temas/t1/ico3.png')")
-        .row
+        .row.justify-content-center
           .col-md-8.mb-4.mb-md-0
             h4 Implementación
             p Para implementar eficazmente un marco de gestión del riesgo, la organización debe desarrollar un plan con plazos y recursos definidos, clarificar quién toma decisiones y ajustar los procesos de toma de decisiones cuando sea necesario. La correcta implementación requiere el compromiso de las partes interesadas, permitiendo a la organización abordar la incertidumbre en sus decisiones y adaptarse a cambios en su entorno interno y externo, asegurando que la gestión del riesgo esté integrada en todas las actividades organizacionales.
           
-          .col-md-4
+          .col-md-4.col-8
             figure
               img(src='@/assets/curso/temas/t1/img04.svg', alt='Texto que describa la imagen')
       
       .py-4.py-md-5(titulo="Valoración" :icono="require('@/assets/curso/temas/t1/ico4.png')")
-        .row
+        .row.justify-content-center
           .col-md-8.mb-4.mb-md-0
             h4 Valoración
             p Para valorar la eficacia del marco de gestión del riesgo, una organización debe realizar evaluaciones periódicas del desempeño de dicho marco en relación con sus objetivos y expectativas. Este proceso implica analizar si el marco sigue siendo adecuado para apoyar el cumplimiento de los objetivos de la organización, lo que puede incluir ajustes según sea necesario. Además, es fundamental medir cómo se está implementando, los indicadores clave y el comportamiento esperado, asegurando que continúe alineado con los propósitos organizacionales y el entorno cambiante.
       
-          .col-md-4
+          .col-md-4.col-8
             figure
               img(src='@/assets/curso/temas/t1/img05.svg', alt='Texto que describa la imagen')
       
       .py-4.py-md-5(titulo="Mejora" :icono="require('@/assets/curso/temas/t1/ico5.png')")
-        .row
+        .row.justify-content-center
           .col-md-8.mb-4.mb-md-0
             h4 Mejora
             p Para mejorar el marco de gestión del riesgo, una organización debe adaptarlo continuamente a los cambios internos y externos, asegurando así su relevancia y efectividad. Esto incluye el monitoreo constante y el ajuste del marco para maximizar su valor. Además, se debe promover una mejora continua mediante la identificación de brechas y oportunidades, asignando responsabilidades y desarrollando planes de acción. Implementar estas mejoras fortalece el proceso de gestión del riesgo, garantizando que esté alineado con los objetivos estratégicos y operativos de la organización.
     
-          .col-md-4
+          .col-md-4.col-8
             figure
               img(src='@/assets/curso/temas/t1/img06.svg', alt='Texto que describa la imagen')                                             
       

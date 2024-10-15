@@ -4,191 +4,162 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span 4
-      h1 La gerencia de las finanzas
+        span 5
+      h1 Plan de mejoramiento de la gestión de riesgo
     
-    .row.mb-5(data-aos='fade')
-      .col-lg-5.pe-lg-0.d-none.d-lg-block
-        img(src='@/assets/curso/temas/t4/img1.png', alt='')
-      .col-lg-7.ps-lg-0
-        .br-l.bg1.p-4.h-100.d-flex.align-items-center.mont1
-          p.mb-3 Las empresas acuden al sector financiero con diversos motivos, principalmente para obtener recursos que les permitan generar la máxima rentabilidad y, al mismo tiempo, garantizar la devolución de ese capital con los costos asociados. Este principio es fundamental para cualquier tipo de organización, ya que, a medida que estas crecen y se desarrollan, su necesidad de financiamiento aumenta. Para acceder a los créditos requeridos, es vital que el empresario se acerque a las fuentes de financiamiento habituales con una sólida preparación profesional, dado que deberá negociar con expertos en el área.
-    
-    p.mb-4 Para determinar las necesidades reales de la empresa, es necesario tener claridad sobre los siguientes aspectos a través de los registros contables y el análisis de ingresos y gastos:
 
-    //tarjetas feas locas 5.0
-
-    p.mb-4 Con estos datos, la gestión financiera asume dos funciones principales que buscan maximizar el valor neto actual de la inversión de los propietarios de la empresa:
-
-    .row.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
       .col-lg-7
-        LineaTiempoD.color-primario
-          p.text-small(numero="1" titulo="Provisión de recursos financieros") Garantiza los medios necesarios para cubrir las obligaciones de pago de la empresa, manteniendo la solvencia y liquidez.
-        
-          p.text-small(numero="2" titulo="Obtención de beneficios") Se encarga de invertir el efectivo en operaciones que generen un valor actual atractivo para la organización. 
-      .col-lg-5
-        img(src='@/assets/curso/temas/t4/img2.png', alt='')
-    
-    p.mb-3 El objetivo central de la administración financiera es incrementar el valor actual de la riqueza de la empresa. Esto se logra asegurando que siempre haya suficiente efectivo para cubrir las cuentas en el momento adecuado y optimizando la distribución de los recursos disponibles.
-    p.mb-4 En el proceso de creación de empresas, se han identificado ciertos paradigmas erróneos en relación con los aspectos financieros. Estos mitos, que son repetidos sin cuestionamiento, pueden generar temores en los emprendedores y disuadirlos de seguir adelante con sus proyectos. Es común que estos falsos paradigmas lleven a una dependencia exclusiva en la parte financiera, ignorando otros factores clave para el éxito. Por lo tanto, es crucial que los emprendedores analicen y desmitifiquen estas creencias para no limitar el desarrollo de sus empresas, dado que dichos paradigmas no representan una realidad concreta y pueden obstaculizar el crecimiento.
-    
-    
-    Separador
-    .titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 4.1  Importancia de las proyecciones financieras
-    
-    .row.mb-5(data-aos='fade')
-      .col-lg-5.pe-lg-0.d-none.d-lg-block
-        img(src='@/assets/curso/temas/t4/img3.png', alt='')
-      .col-lg-7.ps-lg-0
-        .br-l.bg1.p-4.h-100.d-flex.align-items-center.mont1
-          p.mb-3  En muchas empresas, especialmente en pymes, el problema no radica en generar ventas, sino en obtener los recursos necesarios para producir. Esto lleva a cuestionar por qué, a pesar de contar con oportunidades de crecimiento, no logran acceder a créditos o atraer nuevos socios. La falta de proyecciones financieras suele ser una de las razones más comunes.
-          p Los dueños de pequeñas y medianas empresas suelen tener una visión clara sobre el futuro de su negocio. Ellos conocen si habrá nuevas ventas, contratos o posibilidades de expansión hacia otros mercados. Sin embargo, cuando buscan financiamiento a través de bancos o inversionistas, a menudo encuentran dificultades porque intentan convencer a otros de manera verbal. En este contexto, las proyecciones financieras son esenciales, ya que permiten demostrar de manera objetiva las expectativas de éxito de la empresa.
-    
-    p.mb-4 Estas proyecciones se enfocan en pronosticar ventas, gastos e inversiones en un periodo determinado, lo que se traduce en la elaboración de los estados financieros clave:
+        p Es fundamental que cada empresa cuente con su propio plan de gestión de riesgos, ya que esta herramienta le permitirá organizarse y tomar medidas preventivas y reactivas frente a diversas situaciones que puedan presentarse, enfocándose en la reducción de riesgos.
+        p El plan de gestión de riesgos se define como un conjunto de actividades cuyo objetivo es dar a conocer y aplicar estrategias, conceptos y metodologías para reducir riesgos, prevenir situaciones adversas y responder a posibles problemas dentro del entorno organizacional. 
+        P A continuación, se abordará la administración de riesgos desde la perspectiva de la planificación en situaciones adversas:
+        P La primera sección de este proceso se aborda desde el análisis y evaluación de riesgos, así:
+      .col-lg-5.col-sm-9.col-9
+        img(src='@/assets/curso/temas/t5/img01.png', alt='')
 
-    .row.mb-5
-      .col-sm-6.col-lg-4.mb-4.mb-lg-0
-        .tarjeta--boton.color-acento-contenido.p-4
-          .row.justify-content-center.mb-3
-            .col-7
-              img(src='@/assets/curso/temas/t4/boton1.png', alt='')
-          h3.text-center Balance general
-          p.text-center Refleja la situación patrimonial, incluyendo activos y pasivos.
-      
-      .col-sm-6.col-lg-4.mb-4.mb-lg-0
-        .tarjeta--boton.color-acento-contenido.p-4
-          .row.justify-content-center.mb-3
-            .col-7
-              img(src='@/assets/curso/temas/t4/boton2.png', alt='')
-          h3.text-center Estado de resultados
-          p.text-center Muestra las ganancias o pérdidas del negocio.
-      
-      .col-sm-6.col-lg-4.mb-4.mb-lg-0
-        .tarjeta--boton.color-acento-contenido.p-4
-          .row.justify-content-center.mb-3
-            .col-7
-              img(src='@/assets/curso/temas/t4/boton3.png', alt='')
-          h3.text-center  Flujo de efectivo
-          p.text-center Presenta los ingresos y egresos de dinero, crucial para mantener la liquidez.  
+    h5 1. Comprender cómo funciona la administración de riesgos. 
+    P El riesgo, manifestado de forma positiva o negativa, tiene una alta probabilidad de surgir en diferentes contextos. Esto permite calcular su incidencia tomando como referencia la eventualidad de ocurrencia. El objetivo es visualizar el riesgo desde la perspectiva de "problema", cuantificando y evaluando su impacto de manera anticipada para orientar la toma de decisiones correctivas
     
-    p.mb-4 Además, las proyecciones financieras abarcan áreas críticas como planes de ventas, estrategias de mercadeo, gestión de recursos humanos, compras e inversiones, lo que permite crear un panorama más claro sobre cómo la empresa alcanzará sus objetivos y generará rentabilidad. Estas proyecciones ayudan a demostrar la viabilidad económica del negocio, su capacidad de generar beneficios y de cumplir con los pagos de sus obligaciones financieras.
+    .row.justify-content-center.align-items-center.mb-5(data-aos='fade')
+      .col-lg-11
+        .titulo-sexto.color-acento-contenido
+          h5 Figura 7. 
+          span  Cómo funciona la administración de riesgos.
+        img(src='@/assets/curso/temas/t5/img02.svg', alt='')
+
+    p Tras responder las preguntas pertinentes, se obtiene lo que se denomina "exposición", que es la medida del riesgo inevitable. La exposición puede referirse también como el riesgo, obligación o gravedad, y se utiliza para determinar si la acción planificada tiene probabilidades de ocurrir.
+    p Este análisis frecuentemente se balancea con los costos y beneficios. En esta evaluación, se decide si el riesgo de realizar un cambio es mayor o menor que el de no hacerlo.
     
-    .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.mb-5
-      .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/temas/t4/img4.png')})`}"
-      )
-      .bloque-texto-g__texto.p-4
-        p.mb-4 El horizonte temporal de estas proyecciones puede variar según la naturaleza de cada empresa, generalmente de 3 a 5 años, aunque algunas optan por un plazo de hasta 10 años, que es menos común. Para mejorar la precisión, se recomienda que el primer año de proyección se realice con un detalle mensual.
-        p En resumen, las proyecciones financieras son una herramienta esencial tanto para la gestión interna como para presentar una propuesta sólida ante bancos o inversionistas, mostrando la capacidad de la empresa para generar ingresos y cumplir con sus compromisos financieros.
+    .row.justify-content-center.align-items-center.mb-5(data-aos='fade')
+      .col-lg-12
+        .cajon.color-primario.p-4.mb-4
+          p #[b Riesgo asumido:] En caso de que se opte por continuar con una acción (a veces no hay otra opción, como en situaciones de cambios gubernamentales), la exposición se convierte en riesgo asumido. Este riesgo asumido puede cuantificarse en términos monetarios, lo que posteriormente permite estimar el valor de la rentabilidad del producto final.
 
-    //subtitulo loco
-    h4 El control presupuestal en la dirección financiera
-
-    p.mb-4 El control presupuestal desempeña un importante rol en la planificación financiera de las organizaciones, ya que obliga a los directores de cada área a anticiparse y a planificar con mayor detalle las tareas futuras y su ejecución. 
-
-    .row.mb-4
-      .col-lg-5
-        img(src='@/assets/curso/temas/t4/img5.png', alt='')
+    .row.justify-content-center.align-items-center.mb-5(data-aos='fade')
       .col-lg-7
-        SlyderA.bg6
-          .row.bg7
-            .col-lg-2
-              img(src='@/assets/curso/temas/t2/slyder1.svg', alt='')
-            .col-lg-10 
-              p Este proceso fomenta una visión más estratégica, e impulsa a los responsables a cuestionarse sobre las acciones que omitirían si no tuvieran la obligación de preparar un presupuesto. 
-          
-          .row.bg7
-            .col-lg-2
-              img(src='@/assets/curso/temas/t2/slyder2.svg', alt='')
-            .col-lg-10 
-              p En este sentido, la preparación presupuestaria implica mucho más que un ejercicio de planificación es también una herramienta que permite: 
-              ul.lista-ul
-                li
-                  i.lista-ul__vineta
-                  | Identificar prioridades 
-                li
-                  i.lista-ul__vineta
-                  | Mejorar la eficiencia en la asignación de recursos.
+        h5 2. Definir el proyecto. 
+        p Se ejemplifica bajo el supuesto de que la persona a cargo de la dirección de recursos tecnológicos está gestionando un sistema informático que contiene datos importantes de una amplia población. El sistema es obsoleto y necesita ser reemplazado. La tarea consiste en crear un plan de gestión de riesgos para llevar a cabo este reemplazo. En este caso, el riesgo y su impacto se clasifican como alto, medio o bajo, lo cual es común en la gestión de riesgos.
 
-          .row.bg7
-            .col-lg-2
-              img(src='@/assets/curso/temas/t2/slyder3.svg', alt='')
-            .col-lg-10 
-              p Una vez que los presupuestos se han formalizado, el siguiente paso es la elaboración de los estados contables. Estos documentos se desarrollan a partir de los estados financieros de cierre de un ejercicio anterior, complementados con la síntesis de todos los presupuestos de las diferentes áreas de la empresa. 
+        h5 3. Buscar apoyo de otros.
+        p Es recomendable realizar una lluvia de ideas sobre los riesgos potenciales. Se debe formar un grupo de personas que conozcan el proyecto para obtener información sobre lo que podría suceder, cómo prevenirlo y qué hacer en caso de que ocurra. Es importante tomar nota de todas las ideas, ya que este grupo será de ayuda en etapas posteriores. Mantener una actitud abierta a las ideas es esencial, aunque es necesario preservar el control y el enfoque en los objetivos del proyecto.
+      .col-lg-5.col-sm-9.col-9
+        img(src='@/assets/curso/temas/t5/img03.png', alt='')
 
-          .row.bg7
-            .col-lg-2
-              img(src='@/assets/curso/temas/t2/slyder4.svg', alt='')
-            .col-lg-10 
-              p Con esta información, es posible proyectar los resultados operativos, las cuentas de pérdidas y ganancias, y el balance general que la empresa espera presentar al final del ejercicio presupuestado.  
-    
-    p.mb-4 El análisis de estos informes permite a la dirección financiera no solo evaluar el desempeño esperado, a su vez permiten realizar ajustes en los objetivos iniciales si se detectan desviaciones significativas. Estos ajustes pueden incluir la redefinición de estrategias y la optimización de políticas empresariales, con el fin de asegurar que la organización mantenga su rumbo hacia la consecución de sus metas financieras.
-    
-    .cajon.color-acento-contenido.p-4.mb-4
-      p El control presupuestal, por tanto, no es simplemente un mecanismo de seguimiento, también representa una herramienta dinámica que facilita la toma de decisiones informadas. A través de la revisión continua de los presupuestos y los estados contables, se pueden identificar áreas de mejora y oportunidades de crecimiento, contribuyendo de manera significativa a la eficiencia y sostenibilidad de la empresa. 
-    
-    //subtitulo loco
-    h4 La gerencia del valor
 
-    p.mb-4 El valor económico agregado (EVA), también conocido como utilidad económica, se define como:
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
+      .col-lg-5.col-sm-9.mb-2.col-9
+        img(src='@/assets/curso/temas/t5/img04.png', alt='')
+      .col-lg-7
+        h5 4. Identificar las consecuencias de cada riesgo.
+        p Basándose en las ideas generadas, se debe relacionar cada riesgo con los resultados posibles. Especificar las consecuencias de forma detallada es clave para una gestión efectiva. En lugar de mencionar un retraso en términos generales, es preferible cuantificar el retraso en días. Si las consecuencias son monetarias, es importante especificar el valor en cifras concretas.
+        h5 5. Eliminar los problemas irrelevantes. 
+        p Es crucial identificar y eliminar riesgos que sean irrelevantes o improbables. Por ejemplo, factores como un terremoto inminente o una epidemia, aunque posibles, pueden considerarse improbables en el contexto de un sistema informático. En estos casos, no se puede hacer nada para mitigar su impacto, por lo que no deben incluirse en el plan de riesgos.
+    
+    p En una segunda fase se da continuidad a la identificación y cuantificación de riesgos, considerando los siguientes aspectos:
+    h5 6. Enlistar todos los elementos de riesgo identificados. 
+    p No es necesario clasificar los riesgos de inmediato. Primero, es importante identificarlos y listarlos, uno por uno.
 
-    .row.mb-5
-      .col-sm-6.col-lg-4.mb-4.mb-lg-0
-        .tarjeta--boton.color-acento-contenido.p-4
-          .row.justify-content-center.mb-3
-            .col-7
-              img(src='@/assets/curso/temas/t4/boton4.png', alt='')
-          p.text-center La diferencia entre la rentabilidad de los activos de la empresa y el costo de financiamiento o capital necesario para adquirir dichos activos. 
-      
-      .col-sm-6.col-lg-4.mb-4.mb-lg-0
-        .tarjeta--boton.color-acento-contenido.p-4
-          .row.justify-content-center.mb-3
-            .col-7
-              img(src='@/assets/curso/temas/t4/boton5.png', alt='')
-          p.text-center Este concepto es clave en la cultura de la gerencia del valor, un enfoque que impulsa a los tomadores de decisiones a desarrollar estrategias orientadas a la creación de valor. 
-      
-      .col-sm-6.col-lg-4.mb-4.mb-lg-0
-        .tarjeta--boton.color-acento-contenido.p-4
-          .row.justify-content-center.mb-3
-            .col-7
-              img(src='@/assets/curso/temas/t4/boton6.png', alt='')
-          p.text-center En esencia, se espera que los recursos de la empresa generen una rentabilidad superior a su costo; de lo contrario, sería más eficiente redirigir esos recursos a otras actividades más productivas. 
-    
-    .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.mb-5
-      .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/temas/t4/img6.png')})`}"
-      )
-      .bloque-texto-g__texto.p-4
-        p.mb-3 Las empresas que solo se enfocan en indicadores tradicionales, como la utilidad neta, los márgenes de ganancia o el crecimiento en ventas, corren el riesgo de desarrollar una visión limitada. Este enfoque puede pasar por alto elementos cruciales como la optimización del capital de trabajo o la productividad derivada del uso eficiente de la capacidad instalada. La verdadera evaluación de oportunidades empresariales se basa en indicadores enfocados en la creación de valor, más allá de los beneficios inmediatos.
-        p Las utilidades por sí solas no son suficientes para medir el éxito de una empresa. Es necesario que dichas utilidades se comparen con los activos empleados para generarlas, asegurando así que se obtiene una rentabilidad atractiva. Además, tanto las utilidades como la rentabilidad deben ir acompañadas de flujos de caja libre (FCL) sólidos, lo que indica que la empresa no está inmovilizando recursos en capital de trabajo o en inversiones improductivas en activos fijos.
-    
-    p.mb-4 En resumen, los tres elementos clave que garantizan la permanencia y el crecimiento de una empresa son:
+    h5 7. Asignar probabilidades. 
+    p A cada riesgo identificado se le debe asignar una probabilidad de ocurrencia: alta, media o baja. Si se utiliza un valor numérico, la escala va de 0.00 a 1.00, con los siguientes rangos:
 
-    .row.mb-5  
-      .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-primario.p-5
-          .tarjeta-numerada__numero
-            .h2 1
-          p.text-center 
-            b Utilidades
-          p.text-center Los beneficios obtenidos tras descontar los costos operativos y financieros.
-      .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-secundario.p-5
-          .tarjeta-numerada__numero
-            .h2 2
-          p.text-center 
-            b  Rentabilidad
-          p.text-center  La capacidad de generar ingresos en relación con los activos utilizados.
-      .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-acento-botones.p-5
-          .tarjeta-numerada__numero
-            .h2 3
-          p.text-center 
-            b Flujo de caja libre
-          p.text-center La disponibilidad de efectivo para inversiones y operaciones, sin comprometer recursos en actividades improductivas. 
+    p • Baja: 0.01 a 0.33
+    p • Media: 0.34 a 0.66
+    p • Alta: 0.67 a 1.00
+
+    p Nota: Si la probabilidad de ocurrencia es cero, el riesgo debe eliminarse de la evaluación.
     
-    p La correcta gestión de estos tres factores permite no solo la supervivencia de la empresa, sino también su crecimiento sostenido y, sobre todo, la creación de valor económico.
+    
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
+      .titulo-sexto.color-acento-contenido
+        h5 Figura 8. 
+        span  Probabilidad
+      .col-lg-2.col-sm-5.col-7
+        img(src='@/assets/curso/temas/t5/img05.svg', alt='')
+    
+    
+    h5 8. Asignar el impacto. 
+    p De manera similar a las probabilidades, se debe asignar un impacto (alto, medio o bajo) para cada riesgo. Si es necesario, se puede utilizar una escala numérica como la mencionada en el punto anterior.
+    p Nota: Si el impacto es nulo, no es necesario incluir el riesgo en el listado.
+
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
+      .titulo-sexto.color-acento-contenido
+        h5 Figura 9. 
+        span  Asignación de impacto
+      .col-lg-6.col-sm-9.col-10
+        img(src='@/assets/curso/temas/t5/img06.svg', alt='')
+    
+    h5 9. Determinar el riesgo para el elemento. 
+    p Para combinar la probabilidad y el impacto, se puede utilizar una relación entre valores altos, medios y bajos. En casos más complejos, es importante utilizar una categorización basada en valores numéricos. Es fundamental recordar que no existe una fórmula única para combinar estos factores, ya que varían según el proyecto y los individuos involucrados. Es recomendable ser flexible en el análisis y adaptar las combinaciones de probabilidad e impacto a cada situación específica.
+    
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
+      .titulo-sexto.color-acento-contenido
+        h5 Figura 10. 
+        span  Tablas para análisis de riesgo
+      .col-lg-6.col-sm-9.col-10
+        img(src='@/assets/curso/temas/t5/img07.svg', alt='')
+    
+    
+    h5 10. Clasificar los riesgos: 
+    p Una vez determinados, se deben listar los riesgos en orden de mayor a menor impacto.
+    
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
+      .titulo-sexto.color-acento-contenido
+        h5 Figura 11. 
+        span  Listado para clasificación de riesgos
+      .col-lg-4.col-sm-6.col-8
+        img(src='@/assets/curso/temas/t5/img08.svg', alt='')
+    
+    
+    p En la siguiente sección del proceso y atendiendo la respectiva trazabilidad, se realizan los cálculos del riesgo y planificación de respuesta:
+    h5 11. calcular el riesgo total: 
+    p Aquí la numeración es una ayuda importante, por ejemplo, si se tiene 7 riesgos determinados, como A, A, M, M, M, B y B. Esto se puede llevar a 0.8, 0.8, 0.5, 0.5, 0.5, 0.2 y 0.2. El riesgo promedio total es 0,5 y esto se determina en Medio.
+    
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
+      .titulo-sexto.color-acento-contenido
+        h5 Figura 12. 
+        span  Cálculo del riesgo promedio total
+      .col-lg-6.col-sm-9.col-10
+        img(src='@/assets/curso/temas/t5/img09.svg', alt='')
+    
+    p 12. Desarrollar estrategias de mitigación.  
+    p Estas estrategias buscan reducir la probabilidad de que un riesgo se materialice, enfocándose en los componentes de riesgo alto y medio. El objetivo es reducir esos riesgos a niveles bajos. Por ejemplo, si existe riesgo de retraso en la entrega de áreas críticas, una estrategia sería reorganizar las entregas para priorizar esas áreas desde el inicio del proyecto.
+
+    h5 13. Desarrollar planes de contingencia. 
+    p Los planes de contingencia están destinados a reducir el impacto si el riesgo llega a ocurrir. Generalmente, solo se desarrollan para los riesgos altos y medios. Por ejemplo, si los materiales necesarios para un proceso no llegan a tiempo, se debe recurrir a los recursos disponibles hasta que los nuevos lleguen.
+
+    p Finalmente, el proceso concluye en un ciclo de monitoreo y ajuste, atendiendo los siguientes pasos:
+
+    h5 14. Evaluar la efectividad de las estrategias. 
+    p Una vez implementadas las estrategias de mitigación y contingencia, es necesario analizar su efectividad en la reducción del riesgo.
+    
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
+      .titulo-sexto.color-acento-contenido
+        h5 Figura 13. 
+        span  Análisis y evaluación de efectividad.
+      .col-lg-8.col-sm-9.col-10
+        img(src='@/assets/curso/temas/t5/img10.svg', alt='')
+    
+    h5 15. Calcular el riesgo eficaz. 
+    p Tras la implementación de las estrategias, es importante recalcular el riesgo promedio. Se tiene que los riesgos son siete y estos son: M, M, M, B, B, B y B, que se convierte en 0,5, 0,5, 0,5, 0,2, 0,2, 0,2 y 0,2. Esto le da un riesgo medial de 0,329, lo que indica que el riesgo general es bajo. Inicialmente, el riesgo fue medio (0,5). Con posterioridad a la inclusión de tácticas de manejo, la exposición es baja (0.329). Lo que deduce que se ha logrado una disminución del 34,2% en peligro a través de la mitigación y contingencia, algo que es productivo.
+    
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
+      .titulo-sexto.color-acento-contenido
+        h5 Figura 14. 
+        span  Cálculo del riesgo
+      .col-lg-6.col-sm-9.col-10
+        img(src='@/assets/curso/temas/t5/img11.svg', alt='')
+    
+    h5 16. Monitorear los riesgos.
+    p Una vez identificados los riesgos, es necesario definir cómo y cuándo se evaluará su materialización. Esto se hace mediante el seguimiento de indicadores clave de riesgo. Este monitoreo debe realizarse especialmente en los riesgos altos y medios, para poder activar los planes de contingencia en caso de que sea necesario.
+    
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
+      .titulo-sexto.color-acento-contenido
+        h5 Figura 15. 
+        span Monitoreo de riesgo.
+      .col-lg-12
+        img(src='@/assets/curso/temas/t5/img12.svg', alt='')
+    
+  
 
 </template>
 
