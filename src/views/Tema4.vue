@@ -7,7 +7,7 @@
         span 4
       h1 Análisis de la gestión del riesgo
   
-    p.mb-4 El Análisis de Gestión del Riesgo, también conocido como ciclo PHA (Análisis Preliminar de Riesgos de Procesos o por sus siglas en inglés Process Hazard Analysis), se refiere al estudio de las causas de posibles amenazas, los daños que pueden generar en la organización y sus consecuencias. Este proceso permite calificar y evaluar los riesgos, proporcionando información clave para determinar el nivel de riesgo y las acciones que se implementarán. La calidad del análisis depende de la información recogida en los formatos de identificación de riesgos, la disponibilidad de datos históricos y las contribuciones del personal de la entidad.
+    p.mb-4 El Análisis de Gestión del Riesgo, también conocido como ciclo PHA (Análisis Preliminar de Riesgos de Procesos o por sus siglas en inglés #[em Process Hazard Analysis]), se refiere al estudio de las causas de posibles amenazas, los daños que pueden generar en la organización y sus consecuencias. Este proceso permite calificar y evaluar los riesgos, proporcionando información clave para determinar el nivel de riesgo y las acciones que se implementarán. La calidad del análisis depende de la información recogida en los formatos de identificación de riesgos, la disponibilidad de datos históricos y las contribuciones del personal de la entidad.
     p.mb-4 Este análisis es ampliamente utilizado en la gestión financiera y de seguridad para:
     
     .row.align-items-center.justify-content-center.mb-4(data-aos='fade')
@@ -86,7 +86,7 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 6.
           span   Pasos para una evaluación de riesgos.
-        img(src='@/assets/curso/temas/t4/img07.png', alt='')
+        img(src='@/assets/curso/temas/t4/img07.svg', alt='')
         .py-2
       p.text-center Nota. Adaptado de Mendoza (2014).
 
@@ -219,14 +219,14 @@
                 td 
                 td Impacto
                 td Leve
-                td
-                td
+                td Moderado
+                td Catastrófica
               tr
                 td 
                 td Valor
                 td 5
-                td
-                td
+                td 10
+                td 20
         p Nota. Adaptada de Guía administración del riesgo.
 
     p Hay que tener en cuenta, que se debe evaluar los riesgos uno por uno. El análisis que permite realizar esta matriz ayuda a visualizar tanto el impacto potencial como la probabilidad de que el riesgo ocurra. Las clasificaciones utilizadas son las siguientes:

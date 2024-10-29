@@ -121,7 +121,7 @@
       .col-lg-6.col-sm-9.col-10
         img(src='@/assets/curso/temas/t5/img09.svg', alt='')
     
-    p 12. Desarrollar estrategias de mitigación.  
+    h5 12. Desarrollar estrategias de mitigación.  
     p Estas estrategias buscan reducir la probabilidad de que un riesgo se materialice, enfocándose en los componentes de riesgo alto y medio. El objetivo es reducir esos riesgos a niveles bajos. Por ejemplo, si existe riesgo de retraso en la entrega de áreas críticas, una estrategia sería reorganizar las entregas para priorizar esas áreas desde el inicio del proyecto.
 
     h5 13. Desarrollar planes de contingencia. 

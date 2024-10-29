@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 La gerencia de la información y el conocimiento en la toma de decisiones
+      h1 Proceso de la gestión del riesgo
     
     p.mb-4 El proceso de gestión de riesgo, aplicado a cualquier actividad, empresa o proyecto, requiere la implementación e integración de diferentes políticas y procedimientos a actividades según se presenta en la Figura 2. Este proceso debe desarrollarse e incorporarse en la toma de decisiones y operaciones de la organización, lo que implica un impacto a nivel tanto estratégico como operativo, considerando el entorno externo e interno. Además, es dinámico y debe adaptarse a la naturaleza humana y cultural de la organización. Aunque el proceso parece secuencial, su implementación es iterativa y debe ajustarse continuamente a las necesidades de la empresa y su entorno cambiante. (NTC ISO – 31000, 2018).
     
@@ -57,7 +57,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
       .col-lg-12
         p Establecer el alcance, contexto y criterios en la gestión de riesgos tiene como propósito ajustar el proceso de manera que permita una evaluación precisa y un tratamiento eficaz de los riesgos. Definir el alcance implica identificar los límites y objetivos del proceso, mientras que el análisis del contexto externo e interno permite entender los factores que afectan a la organización. Esto garantiza que las decisiones estén alineadas con las circunstancias y necesidades específicas, facilitando la adaptación de estrategias y recursos para abordar los riesgos de manera efectiva.
-   
+        p De acuerdo con lo establecido en la NTC-ISO (2018), se describen a continuación el alcance, contexto y criterios en el proceso de gestión del riesgo: 
     .row.align-items-center.subt.mb-4(data-aos="fade-left")
       .col-2.col-md-auto
         img(src='@/assets/curso/temas/t3/subt.svg', alt='')
@@ -69,7 +69,7 @@
         p Definir el alcance de las actividades de gestión del riesgo implica establecer con claridad los niveles y objetivos estratégicos u operativos de la organización a los que se aplicará. Este proceso debe alinearse con los objetivos generales de la entidad, considerando aspectos como:
     
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-3
       .col-lg-12.col-sm-6.col-8
         SlyderF.mb-5(columnas="col-lg-3 col-xl-3")(data-aos="zoom-in-left")
           .tarjeta.bgimg.p-4
@@ -119,6 +119,7 @@
             .row.justify-content-center
               .col-lg-10
                 h5.text-center Recursos necesarios         
+    p Es fundamental identificar las relaciones con otros proyectos o procesos para asegurar coherencia y eficiencia en la gestión del riesgo, permitiendo una implementación precisa y efectiva en todos los niveles. 
     
     .row.align-items-center.subt.mb-4(data-aos="fade-left")
       .col-2.col-md-auto

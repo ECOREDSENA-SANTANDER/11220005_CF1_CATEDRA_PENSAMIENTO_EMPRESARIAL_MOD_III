@@ -78,7 +78,7 @@
         img(src='@/assets/curso/temas/t3/img03.png', alt='')
       .col-lg-7.ps-lg-0
         .br-l.bg1.p-4.h-100.d-flex.align-items-center.mont1
-          p El director es el elemento en quien se basa la continuidad de la empresa, éste como centro, es el encargado de hacer productivos los recursos, es el responsable de lograr, de un modo organizado, el progreso de la iniciativa empresarial. La dirección de la empresa debe hacerse mediante objetivos, y ser capaz de tomar decisiones estratégicas, e implementarlas junto con un equipo de trabajo integrado y organizado por él mismo. Para lograr lo propuesto, el directivo debe fundamentarse en la formación personal, teniendo una total comprensión de su empresa tanto en su mercado, como en el entorno externo que lo rodea. <br><br>Es importante que el director de un manejo adecuado a las presiones a las que se pueda enfrentar, personal o profesionalmente, a la hora de ejercer su acción de liderazgo dentro de la empresa, ya que, si no se gestionan adecuadamente, podrían afectar negativamente su capacidad para liderar de manera efectiva.
+          p El director es el elemento en quien se basa la continuidad de la empresa, éste como centro, es el encargado de hacer productivos los recursos, es el responsable de lograr, de un modo organizado, el progreso de la iniciativa empresarial. La dirección de la empresa debe hacerse mediante objetivos, y ser capaz de tomar decisiones estratégicas, e implementarlas junto con un equipo de trabajo integrado y organizado por él mismo. Para lograr lo propuesto, el directivo debe fundamentarse en la formación personal, teniendo una total comprensión de su empresa tanto en su mercado, como en el entorno externo que lo rodea. <br><br>Es importante que el director dé un manejo adecuado a las presiones a las que se pueda enfrentar, personal o profesionalmente, a la hora de ejercer su acción de liderazgo dentro de la empresa, ya que, si no se gestionan adecuadamente, podrían afectar negativamente su capacidad para liderar de manera efectiva.
     
     .row.align-items-center.subt.mb-4(data-aos="fade-left")
       .col-2.col-md-auto
@@ -138,29 +138,33 @@
     p Para guiar este proceso, los directivos deben plantearse y responder a las siguientes preguntas:
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
       .col-lg-7
-        ul.lista-ul--color
+        ol.lista-ol--cuadro
           li
-            i.fas.fa-angle-right
-            |¿Quién es nuestro cliente?
+          .lista-ol--cuadro__vineta
+            span 1
+          |¿Quién es nuestro cliente?
           li
-            i.fas.fa-angle-right
-            |¿Qué valora nuestro cliente?
-      
+          .lista-ol--cuadro__vineta
+            span 2
+          |¿Qué valora nuestro cliente?
           li
-            i.fas.fa-angle-right
-            |¿Qué productos o servicios necesitan nuestros clientes?
-
+          .lista-ol--cuadro__vineta
+            span 3
+          |¿Qué productos o servicios necesitan nuestros clientes?
           li
-            i.fas.fa-angle-right
-            |¿Qué ofrece nuestra competencia y qué ofrecemos nosotros?
-
+          .lista-ol--cuadro__vineta
+            span 4
+          |¿Qué ofrece nuestra competencia y qué ofrecemos nosotros?
           li
-            i.fas.fa-angle-right
-            |¿Qué tecnologías debemos emplear para desarrollar nuestros productos o servicios?
-
+          .lista-ol--cuadro__vineta
+            span 5
+          |¿Qué tecnologías debemos emplear para desarrollar nuestros productos o servicios?
           li
-            i.fas.fa-angle-right
-            |Pensando en el futuro, ¿cuál es nuestro negocio actual?, ¿cuál será? y ¿cuál debería ser?
+          .lista-ol--cuadro__vineta
+            span 6
+          |Pensando en el futuro, ¿cuál es nuestro negocio actual?, ¿cuál será? y ¿cuál debería ser?
+ 
+         
       
       .col-lg-5.mb-3.col-9
         img(src='@/assets/curso/temas/t3/img08.png', alt='Texto que describa la imagen')
@@ -260,7 +264,6 @@
       .col-10.col-md-auto.ps-0
         h3.mb-0 La mejor publicidad es la que hacen los clientes satisfechos
   
-    p La gerencia de mercadeo es responsable de la gestión de la demanda, ya que sus decisiones influyen directamente en el nivel, momento y composición de esta. Algunos ejemplos de cómo actúa el departamento ante diversas situaciones incluyen:     
       
     .row.justify-content-center.align-items-center.mb-5(data-aos='fade')
       .col-lg-12
@@ -496,6 +499,8 @@
     p La gerencia debe ir más allá de lo material y automatizado, reconociendo el valor de los aspectos humanos, emocionales y culturales para el éxito empresarial.
     p.mb-4 En empresas pequeñas, puede no ser viable contar con un especialista en recursos humanos a tiempo completo, pero a medida que la organización crece, las situaciones relacionadas con el manejo del personal pueden incrementar y volverse más complejas. Esto lleva a la necesidad de integrar a los procesos de la organización una gerencia o administración de recursos humanos, especialmente cuando se presentan factores como:     
     
+
+
     .row
       .col-lg-4.d-none.d-lg-block(data-aos="fade-right")
         img(src='@/assets/curso/temas/t3/img36.png', alt='')
@@ -517,7 +522,22 @@
     .py-2    
     p La gerencia debe ir más allá de lo material y automatizado, reconociendo el valor de los aspectos humanos, emocionales y culturales para el éxito empresarial.
     p.mb-4 En empresas pequeñas, puede no ser viable contar con un especialista en recursos humanos a tiempo completo, pero a medida que la organización crece, las situaciones relacionadas con el manejo del personal pueden incrementar y volverse más complejas. Esto lleva a la necesidad de integrar a los procesos de la organización una gerencia o administración de recursos humanos, especialmente cuando se presentan factores como: 
-
+    ol.lista-ol--cuadro
+          li
+          .lista-ol--cuadro__vineta
+            span 1
+          |#[b Mercados con rechazo al producto:] como en el caso de vacunas o clínicas dentales, donde el mercadeo debe identificar las causas de rechazo y trabajar en rediseño, precios o promoción para cambiar las actitudes del consumido
+          li
+          .lista-ol--cuadro__vineta
+            span 2
+          |#[b Indiferencia hacia el producto:] buscar conectar los beneficios del producto con las necesidades del mercado, como en el caso de los granjeros y los nuevos métodos de cuidado animal.
+          li
+          .lista-ol--cuadro__vineta
+            span 3
+          |#[b Demanda fluctuante:] enfrentar variaciones estacionales o picos de demanda mediante precios flexibles, promoción u otros incentivos.
+    
+    p Por lo tanto, el manejo de recursos humanos se convierte en un pilar estratégico que impacta no solo en la eficiencia operativa y mitigación de riesgos, sino en el bienestar y crecimiento del personal. 
+    
     .row.align-items-center.subt.mb-4(data-aos="fade-left")
       .col-2.col-md-auto
         img(src='@/assets/curso/temas/t3/subt.svg', alt='')

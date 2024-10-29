@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Evaluación de la gestión de riesgo
+      h1 Principios y marco de referencia de la gestión del riesgo
     
     
     p.mb-4 Según la NTC-ISO 31000 (2018), la gestión del riesgo se define como aquellas “actividades coordinadas para dirigir y controlar la organización con relación al riesgo”. 	Además define su principal propósito como la creación y la protección del valor, enmarcada en una serie de principios que se presentan en la siguiente figura:
