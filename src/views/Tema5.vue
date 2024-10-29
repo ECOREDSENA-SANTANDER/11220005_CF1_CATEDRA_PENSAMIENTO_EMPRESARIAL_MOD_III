@@ -18,7 +18,7 @@
         img(src='@/assets/curso/temas/t5/img01.png', alt='')
 
     h5 1. Comprender cómo funciona la administración de riesgos. 
-    P El riesgo, manifestado de forma positiva o negativa, tiene una alta probabilidad de surgir en diferentes contextos. Esto permite calcular su incidencia tomando como referencia la eventualidad de ocurrencia. El objetivo es visualizar el riesgo desde la perspectiva de "problema", cuantificando y evaluando su impacto de manera anticipada para orientar la toma de decisiones correctivas
+    P El riesgo, manifestado de forma positiva o negativa, tiene una alta probabilidad de surgir en diferentes contextos. Esto permite calcular su incidencia tomando como referencia la eventualidad de ocurrencia. El objetivo es visualizar el riesgo desde la perspectiva de "problema", cuantificando y evaluando su impacto de manera anticipada para orientar la toma de decisiones correctivas.
     
     .row.justify-content-center.align-items-center.mb-5(data-aos='fade')
       .col-lg-11
@@ -157,7 +157,7 @@
         h5 Figura 15. 
         span Monitoreo de riesgo.
       .col-lg-12
-        img(src='@/assets/curso/temas/t5/img12.svg', alt='')
+        img(src='@/assets/curso/temas/t5/img12.png', alt='')
     
   
 

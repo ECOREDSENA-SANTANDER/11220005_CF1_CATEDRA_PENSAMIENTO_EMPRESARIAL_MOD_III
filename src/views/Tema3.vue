@@ -66,7 +66,7 @@
             h5.mb-2 3. Área geográfica en la que competirá.
   
           
-    p.mb-3 El desarrollo de una estrategia no es solo una cuestión conceptual; su implementación es crucial para el éxito. La administración del tiempo se convierte en un factor fundamental, ya que los procesos estratégicos requieren tiempo para su ejecución. Los líderes deben ser conscientes de la importancia de contar con una estrategia concreta, y asegurarse de que la empresa dedique el tiempo necesario para abordar los desafíos estratégicos. La planificación estratégica es vital para alinear los esfuerzos a largo plazo, ya que, por definición, #[b lo estratégico no es urgente, sino que se orienta hacia el futuro.]
+    p.mb-3 El desarrollo de una estrategia no es solo una cuestión conceptual; su implementación es crucial para el éxito. La administración del tiempo se convierte en un factor fundamental, ya que los procesos estratégicos requieren tiempo para su ejecución. Los líderes deben ser conscientes de la importancia de contar con una estrategia concreta, y asegurarse de que la empresa dedique el tiempo necesario para abordar los desafíos estratégicos. La planificación estratégica es vital para alinear los esfuerzos a largo plazo, ya que, por definición, lo estratégico no es urgente, sino que se orienta hacia el futuro.
     
     Separador
     .titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -306,7 +306,7 @@
                 .col-md-2.mb-4.mb-md-0.col-4
                   img(src='@/assets/curso/temas/t3/img28.png', alt='Texto que describa la imagen')
                 .col.md-10.mb-4-md-0.mb-4
-                  p.mb-3 A lo largo del año, la dirección de mercadeo ajusta las asignaciones en respuesta a las variaciones de los competidores o de los clientes..
+                  p.mb-3 A lo largo del año, la dirección de mercadeo ajusta las asignaciones en respuesta a las variaciones de los competidores o de los clientes.
               
               .row.justify-content-center.align-items-center.p-4
                 .col-md-2.mb-4.mb-md-0.col-4

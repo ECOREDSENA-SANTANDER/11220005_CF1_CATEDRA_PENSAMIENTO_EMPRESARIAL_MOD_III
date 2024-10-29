@@ -32,8 +32,7 @@
           li
             i.fas.fa-angle-right
             | La consulta busca obtener retroalimentación para mejorar la toma de decisiones. 
-          li
-            i.fas.fa-angle-right
+         
         p Ambas deben estar coordinadas para garantizar un flujo de información:
         ul.lista-ul--color 
           li
@@ -118,7 +117,7 @@
                 img(src='@/assets/curso/temas/t2/img08.png')
             .row.justify-content-center
               .col-lg-10
-                h5.text-center Recursos necesarios         
+                h5.text-center Recursos necesarios.         
     p Es fundamental identificar las relaciones con otros proyectos o procesos para asegurar coherencia y eficiencia en la gestión del riesgo, permitiendo una implementación precisa y efectiva en todos los niveles. 
     
     .row.align-items-center.subt.mb-4(data-aos="fade-left")
@@ -141,21 +140,21 @@
                 h3 Contexto externo
                 p El análisis del contexto externo de la organización puede incluir, pero no limitarse a:
                 ul.lista-ul--color
-                  li
+                  li.d-flex.mb-0 
                     i.fas.fa-angle-right
-                    |Los factores sociales, culturales, políticos, legales, reglamentarios, financieros, tecnológicos, económicos y ambientales ya sea a nivel internacional, nacional, regional o local.
-                  li
+                    p Los factores sociales, culturales, políticos, legales, reglamentarios, financieros, tecnológicos, económicos y ambientales ya sea a nivel internacional, nacional, regional o local.
+                  li.d-flex.mb-0 
                     i.fas.fa-angle-right
-                    |Los impulsores clave y las tendencias que afectan a los objetivos de la organización.
-                  li
+                    p Los impulsores clave y las tendencias que afectan a los objetivos de la organización.
+                  li.d-flex.mb-0 
                     i.fas.fa-angle-right
-                    |Las relaciones, percepciones, valores, necesidades y expectativas de las partes interesadas externas.
-                  li
+                    p Las relaciones, percepciones, valores, necesidades y expectativas de las partes interesadas externas.
+                  li.d-flex.mb-0 
                     i.fas.fa-angle-right
-                    |Las relaciones contractuales y los compromisos.
-                  li
+                    p Las relaciones contractuales y los compromisos.
+                  li.d-flex.mb-0 
                     i.fas.fa-angle-right
-                    |La complejidad de las redes y dependencias.
+                    p La complejidad de las redes y dependencias.
               
               .col-md-3.col-9
                 figure
@@ -165,7 +164,7 @@
               .col-md-9.mb-4.mb-md-0
                 h3 Contexto interno
                 p El análisis del contexto interno de la organización puede incluir, pero no limitarse a:
-                ul.lista-ul--color.text-small
+                ul.lista-ul--color
                   li
                     i.fas.fa-angle-right
                     |La visión, la misión y los valores.
@@ -188,9 +187,9 @@
                     i.fas.fa-angle-right
                     |Las normas, las directrices y los modelos adoptados por la organización.
 
-                  li
+                  li.d-flex.mb-0 
                     i.fas.fa-angle-right
-                    |Las capacidades, entendidas en términos de recursos y conocimiento (por ejemplo, capital, tiempo, personas, propiedad intelectual, procesos, sistemas y tecnologías).
+                    p Las capacidades, entendidas en términos de recursos y conocimiento (por ejemplo, capital, tiempo, personas, propiedad intelectual, procesos, sistemas y tecnologías).
 
                   li
                     i.fas.fa-angle-right
@@ -230,9 +229,9 @@
       .col-lg-9
         p La definición de los criterios del riesgo implica que la organización determine la cantidad y el tipo de riesgo que está dispuesta a asumir en relación con sus objetivos. Estos criterios, alineados con el marco de referencia de la gestión del riesgo, guían la evaluación y la toma de decisiones. Deben reflejar los valores, objetivos y recursos de la organización, así como ser coherentes con sus políticas y las expectativas de las partes interesadas. Si bien, regularmente los criterios se establecen al inicio, estos son dinámicos y deben ajustarse de acuerdo con cambios y nuevas necesidades. Según la NTC-ISO 31000 (2018) para establecer los criterios se debe considerar lo siguiente:
         ul.lista-ul--color
-          li
+          li.d-flex.mb-0 
             i.fas.fa-angle-right
-            |La naturaleza y los tipos de las incertidumbres que pueden afectar a los resultados y Objetivos (tanto tangibles como intangibles).
+            p La naturaleza y los tipos de las incertidumbres que pueden afectar a los resultados y Objetivos (tanto tangibles como intangibles).
 
           li
             i.fas.fa-angle-right
