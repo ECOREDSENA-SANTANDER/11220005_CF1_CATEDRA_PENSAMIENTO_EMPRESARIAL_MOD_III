@@ -526,7 +526,7 @@
           li
           .lista-ol--cuadro__vineta
             span 1
-          |#[b Mercados con rechazo al producto:] como en el caso de vacunas o clínicas dentales, donde el mercadeo debe identificar las causas de rechazo y trabajar en rediseño, precios o promoción para cambiar las actitudes del consumido
+          |#[b Mercados con rechazo al producto:] como en el caso de vacunas o clínicas dentales, donde el mercadeo debe identificar las causas de rechazo y trabajar en rediseño, precios o promoción para cambiar las actitudes del consumido.
           li
           .lista-ol--cuadro__vineta
             span 2

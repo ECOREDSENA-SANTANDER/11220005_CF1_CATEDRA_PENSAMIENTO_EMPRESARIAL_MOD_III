@@ -73,7 +73,7 @@
           .col-12.m-0.nav-holder2.align-items-center.px-0(@mouseover="mostrarIndicador2 = false")
             .indicador--hover(v-if="mostrarIndicador2")
             img(src="@/assets/curso/temas/t4/img06.png", alt="")
-            .text.p-2
+            .text.p-1
               .row.text-center.px-1.pt-1.mt-md-2.pt-md-0.mt-lg-3.mt-xl-4
                 h4.mt-3.mb-3 Evaluación del riesgo
                 p.px-4 Permite comparar los resultados de la calificación con criterios predefinidos, clasificando el nivel de exposición de la organización al riesgo en categorías como aceptable, tolerable, moderado, importante o inaceptable. Esto facilita la priorización de las acciones necesarias para mitigar el riesgo. 

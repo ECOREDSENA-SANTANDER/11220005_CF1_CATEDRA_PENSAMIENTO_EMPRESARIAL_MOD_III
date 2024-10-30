@@ -41,7 +41,7 @@
           
           .tarjeta.color-acento-botones.p-3(x="36%" y="75%" numero="+")
             .h5.mb-2 Dinámica 
-            p Pese al dinamismo de los riesgos, gestionarlos correctamente permite responder apropiada y oportunamente
+            p Pese al dinamismo de los riesgos, gestionarlos correctamente permite responder apropiada y oportunamente.
           
           .tarjeta.color-acento-botones.p-3(x="18%" y="56%" numero="+")
             .h5.mb-2 Mejor información disponible
