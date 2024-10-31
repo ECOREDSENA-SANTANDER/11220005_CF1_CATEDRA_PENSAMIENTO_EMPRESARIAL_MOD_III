@@ -116,6 +116,11 @@ export default {
         desarrolloContenidos: true,
       },
       {
+        nombreRuta: 'glosario',
+        icono: 'fas fa-sort-alpha-down',
+        titulo: 'Glosario',
+      },
+      {
         nombreRuta: 'complementario',
         icono: 'far fa-folder-open',
         titulo: 'Material complementario',
@@ -231,6 +236,53 @@ export default {
         'Tremper, C. (s.f.). Cómo elaborar un plan de gestión de riesgos.',
       link:
         ' http://es.wikihow.com/elaborar-un-plan-de-gesti%C3%B3n-de-riesgos',
+    },
+  ],
+  glosario: [
+    {
+      termino: 'Capital humano',
+      significado:
+        'Recurso estratégico de la empresa compuesto por las competencias, habilidades y conocimientos del personal.',
+    },
+    {
+      termino: 'Comunicación y consulta',
+      significado:
+        'Proceso que facilita la comprensión del riesgo, promoviendo la toma de conciencia y obteniendo retroalimentación que mejora la toma de decisiones en la gestión del riesgo.',
+    },
+    {
+      termino: 'Criterios de riesgo',
+      significado:
+        'eterminaciones sobre la cantidad y tipo de riesgo que una organización está dispuesta a asumir, alineados con sus objetivos, valores y expectativas de las partes interesadas.',
+    },
+    {
+      termino: 'Estructura gerencial',
+      significado:
+        'organización de roles y responsabilidades dentro de la empresa, esencial para garantizar una posición competitiva y facilitar la implementación de la gestión del riesgo.',
+    },
+    {
+      termino: 'Evaluación del desempeño',
+      significado:
+        'proceso de valoración periódica de la eficacia del marco de gestión del riesgo, asegurando que continúe alineado con los objetivos organizacionales y se realicen los ajustes necesarios.',
+    },
+    {
+      termino: 'Incentivos',
+      significado:
+        'beneficios ofrecidos al personal para motivar su desempeño y productividad. Los incentivos pueden incluir bonificaciones, reconocimientos o programas especiales de desarrollo profesional que favorecen el compromiso del equipo con los objetivos empresariales.',
+    },
+    {
+      termino: 'Mejora continua',
+      significado:
+        'enfoque que busca adaptar y optimizar el marco de gestión del riesgo de manera constante, aprendiendo de experiencias pasadas y ajustando estrategias para maximizar el valor.',
+    },
+    {
+      termino: 'Retribución',
+      significado:
+        'compensación económica otorgada a los empleados por su trabajo y desempeño. Esta puede estar compuesta de salario base y adicionales según los resultados y contribuciones al éxito de la empresa. ',
+    },
+    {
+      termino: 'Ventaja competitiva',
+      significado:
+        'elemento diferenciador que permite a la empresa sobresalir frente a la competencia. Puede lograrse a través de la innovación, la eficiencia, y una clara identificación de las necesidades del mercado.',
     },
   ],
   creditos: [
