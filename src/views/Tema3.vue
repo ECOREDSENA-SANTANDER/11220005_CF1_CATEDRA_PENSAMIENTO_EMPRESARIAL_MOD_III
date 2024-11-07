@@ -184,17 +184,17 @@
           li
           .lista-ol--cuadro__vineta
             span 1
-          |#[b Coordinación del equipo:] Asegurar la colaboración entre publicidad y ventas, para que las acciones publicitarias se traduzcan en ventas efectivas.
+          |#[b Coordinación del equipo:] asegurar la colaboración entre publicidad y ventas, para que las acciones publicitarias se traduzcan en ventas efectivas.
 
           li
           .lista-ol--cuadro__vineta
             span 2
-          |#[b Colaboración con otras áreas:] Integrar las decisiones de mercadeo con las de otros departamentos.
+          |#[b Colaboración con otras áreas:] integrar las decisiones de mercadeo con las de otros departamentos.
 
           li
           .lista-ol--cuadro__vineta
             span 3
-          |#[b Selección y formación:] Capacitar y dirigir al personal del área.
+          |#[b Selección y formación:] capacitar y dirigir al personal del área.
     
     .row.align-items-center.subt.mb-4(data-aos="fade-left")
       .col-2.col-md-auto
@@ -559,7 +559,7 @@
             .row.justify-content-center.mb-3
               .col-lg-10
                 h5.text-center Meta principal
-                p.text-center Reducir los costos de los productos por debajo del 35% de las ventas totales.
+                p.text-center Reducir los costos de los productos por debajo del 35 % de las ventas totales.
     
           .col-md.tarjeta.bg3
             .row.justify-content-center.p-4
@@ -579,7 +579,7 @@
                 ul.lista-ul--color
                   li
                     i.fas.fa-angle-right
-                    |En el primer mes, los costos se redujeron en un 1.7%.
+                    |En el primer mes, los costos se redujeron en un 1.7 %.
                 ul.lista-ul--color
                   li
                     i.fas.fa-angle-right

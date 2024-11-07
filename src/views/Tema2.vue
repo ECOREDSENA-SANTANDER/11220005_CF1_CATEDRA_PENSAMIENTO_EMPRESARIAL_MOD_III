@@ -231,7 +231,7 @@
         ul.lista-ul--color
           li.d-flex.mb-0 
             i.fas.fa-angle-right
-            p La naturaleza y los tipos de las incertidumbres que pueden afectar a los resultados y Objetivos (tanto tangibles como intangibles).
+            p La naturaleza y los tipos de las incertidumbres que pueden afectar a los resultados y objetivos (tanto tangibles como intangibles).
 
           li
             i.fas.fa-angle-right

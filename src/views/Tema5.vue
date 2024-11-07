@@ -33,7 +33,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos='fade')
       .col-lg-12
         .cajon.color-primario.p-4.mb-4
-          p #[b Riesgo asumido:] En caso de que se opte por continuar con una acción (a veces no hay otra opción, como en situaciones de cambios gubernamentales), la exposición se convierte en riesgo asumido. Este riesgo asumido puede cuantificarse en términos monetarios, lo que posteriormente permite estimar el valor de la rentabilidad del producto final.
+          p #[b Riesgo asumido:] en caso de que se opte por continuar con una acción (a veces no hay otra opción, como en situaciones de cambios gubernamentales), la exposición se convierte en riesgo asumido. Este riesgo asumido puede cuantificarse en términos monetarios, lo que posteriormente permite estimar el valor de la rentabilidad del producto final.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos='fade')
       .col-lg-7
@@ -140,7 +140,7 @@
         img(src='@/assets/curso/temas/t5/img10.svg', alt='')
     
     h5 15. Calcular el riesgo eficaz. 
-    p Tras la implementación de las estrategias, es importante recalcular el riesgo promedio. Se tiene que los riesgos son siete y estos son: M, M, M, B, B, B y B, que se convierte en 0,5, 0,5, 0,5, 0,2, 0,2, 0,2 y 0,2. Esto le da un riesgo medial de 0,329, lo que indica que el riesgo general es bajo. Inicialmente, el riesgo fue medio (0,5). Con posterioridad a la inclusión de tácticas de manejo, la exposición es baja (0.329). Lo que deduce que se ha logrado una disminución del 34,2% en peligro a través de la mitigación y contingencia, algo que es productivo.
+    p Tras la implementación de las estrategias, es importante recalcular el riesgo promedio. Se tiene que los riesgos son siete y estos son: M, M, M, B, B, B y B, que se convierte en 0,5, 0,5, 0,5, 0,2, 0,2, 0,2 y 0,2. Esto le da un riesgo medial de 0,329, lo que indica que el riesgo general es bajo. Inicialmente, el riesgo fue medio (0,5). Con posterioridad a la inclusión de tácticas de manejo, la exposición es baja (0.329). Lo que deduce que se ha logrado una disminución del 34,2 % en peligro a través de la mitigación y contingencia, algo que es productivo.
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-down")
       .titulo-sexto.color-acento-contenido
