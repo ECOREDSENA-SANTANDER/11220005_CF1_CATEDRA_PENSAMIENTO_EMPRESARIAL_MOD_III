@@ -53,7 +53,7 @@
         ImagenInfografica.color-secundario.mb-2
           template(v-slot:imagen)
             figure
-              img(src='@/assets/curso/temas/t3/img02.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/t3/img02.svg', alt='La figura presenta cómo se logra una adecuada formulación de la estrategia empresarial, integrando la identificación de la ventaja competitiva deseada y configurando a la empresa en tres dimensiones: según su área geográfica, según su producto o servicio, y según las actividades empresariales.')
            
 
           .tarjeta.color-acento-botones.p-3(x="79%" y="6%" numero="1")

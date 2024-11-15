@@ -18,7 +18,7 @@
         ImagenInfografica.color-secundario.mb-5
           template(v-slot:imagen)
             figure
-              img(src='@/assets/curso/temas/t1/infograma.svg', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/t1/infograma.svg', alt='La figura presenta los principios fundamentales para la gestión del riesgo, enmarcados en la creación y protección del valor, que incluyen: mejora continua, factores humanos y culturales, mejor información disponible, enfoque dinámico, inclusividad, adaptación, estructura exhaustiva e integración.')
            
 
           .tarjeta.color-acento-botones.p-3(x="62%" y="13%" numero="+")
@@ -64,7 +64,7 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 2.
           span Marco de referencia
-        img(src='@/assets/curso/temas/t1/img01.svg', alt='')
+        img(src='@/assets/curso/temas/t1/img01.svg', alt='La figura representa el marco de referencia de la gestión del riesgo cuyo enfoque se centra en el liderazgo y compromiso, y sus principales componentes que son: integración, diseño, implementación, valoración y mejora.')
         .py-2
       p.text-center Nota. Adaptada de NTC-ISO 31000 (2018). https://e-collection-icontec-org.bdigital.sena.edu.co/normavw.aspx?ID=74790
     

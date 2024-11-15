@@ -86,7 +86,7 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 6.
           span   Pasos para una evaluación de riesgos.
-        img(src='@/assets/curso/temas/t4/img07.svg', alt='')
+        img(src='@/assets/curso/temas/t4/img07.svg', alt='La figura presenta los pasos para realizar el proceso de evaluación de riesgos así: 1. Establecer criterios de medición del riesgo. 2. Desarrollar un perfil de activos de información. 3. Identificar contenedores de activos de información. 4. Identificar áreas de preocupación. 5. Identificar escenarios de amenaza. 6. Identificar riesgos. 7. Analizar riesgos. 8. Seleccionar un enfoque de mitigación.')
         .py-2
       p.text-center Nota. Adaptado de Mendoza (2014).
 
