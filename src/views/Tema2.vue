@@ -129,7 +129,7 @@
     
     .row.justify-content-center.align-items-center.mb-5(data-aos="flip-up")
       .col-lg-12 
-        p Los contextos externo e interno definen el entorno en el que la organización opera y busca cumplir sus objetivos. La comprensión de estos entornos es esencial para una adecuada gestión del riesgo, ya que influyen en el proceso de toma de decisiones y pueden ser fuentes de riesgo. La organización debe considerar factores como el entorno externo, que abarca aspectos regulatorios y económicos, y el contexto interno, que incluye la estructura, la cultura y los recursos. Este análisis asegura que el proceso de gestión del riesgo esté alineado con los objetivos organizacionales.
+        p Los contextos, externo e interno definen el entorno en el que la organización opera y busca cumplir sus objetivos. La comprensión de estos entornos es esencial para una adecuada gestión del riesgo, ya que influyen en el proceso de toma de decisiones y pueden ser fuentes de riesgo. La organización debe considerar factores como el entorno externo, que abarca aspectos regulatorios y económicos, y el contexto interno, que incluye la estructura, la cultura y los recursos. Este análisis asegura que el proceso de gestión del riesgo esté alineado con los objetivos organizacionales.
         p Reiterando entonces en la importancia de que las organizaciones no solo analicen, sino comprendan a profundidad sus contextos tanto externos como internos, la NTC-ISO 31000 (2018) menciona que:
 
     .row.justify-content-center.align-items-center.mb-5.p-4.bgimg2

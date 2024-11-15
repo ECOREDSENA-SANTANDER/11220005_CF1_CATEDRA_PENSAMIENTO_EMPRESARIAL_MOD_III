@@ -152,10 +152,10 @@ export default {
       tema:
         '1. Principios y marco de referencia de la gestión del riesgo. <br><br>2. Proceso de la gestión del riesgo. ',
       referencia:
-        'ICONTEC. (2018). NTC-ISO 31000 – Gestión del riesgo. Directrices. ',
+        'Universidad Privada del Valle (2018). NTC-ISO 31000 – Gestión del riesgo. Directrices. ',
       tipo: 'PDF – Norma. ',
       link:
-        'https://e-collection-icontec-org.bdigital.sena.edu.co/normavw.aspx?ID=74790 ',
+        'https://www.studocu.com/bo/document/universidad-privada-del-valle/gestion-de-la-calidad-y-normativa-internacional/ntc-iso-31000-de-2018/12055552',
     },
     {
       tema:
@@ -198,9 +198,9 @@ export default {
     },
     {
       referencia:
-        'ICONTEC. (2018). NTC-ISO 31000 – Gestión del riesgo. Directrices.',
+        'Universidad Privada del Valle (2018). NTC-ISO 31000 – Gestión del riesgo. Directrices. ',
       link:
-        ' https://e-collection-icontec-org.bdigital.sena.edu.co/normavw.aspx?ID=74790',
+        'https://www.studocu.com/bo/document/universidad-privada-del-valle/gestion-de-la-calidad-y-normativa-internacional/ntc-iso-31000-de-2018/12055552',
     },
     {
       referencia:

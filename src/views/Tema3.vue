@@ -520,22 +520,7 @@
             .col-lg-11.ps-lg-0
               p Un ambiente laboral negativo afecta la motivación, el rendimiento y puede aumentar el ausentismo o la rotación.
     .py-2    
-    p La gerencia debe ir más allá de lo material y automatizado, reconociendo el valor de los aspectos humanos, emocionales y culturales para el éxito empresarial.
-    p.mb-4 En empresas pequeñas, puede no ser viable contar con un especialista en recursos humanos a tiempo completo, pero a medida que la organización crece, las situaciones relacionadas con el manejo del personal pueden incrementar y volverse más complejas. Esto lleva a la necesidad de integrar a los procesos de la organización una gerencia o administración de recursos humanos, especialmente cuando se presentan factores como: 
-    ol.lista-ol--cuadro
-          li
-          .lista-ol--cuadro__vineta
-            span 1
-          |#[b Mercados con rechazo al producto:] como en el caso de vacunas o clínicas dentales, donde el mercadeo debe identificar las causas de rechazo y trabajar en rediseño, precios o promoción para cambiar las actitudes del consumido.
-          li
-          .lista-ol--cuadro__vineta
-            span 2
-          |#[b Indiferencia hacia el producto:] buscar conectar los beneficios del producto con las necesidades del mercado, como en el caso de los granjeros y los nuevos métodos de cuidado animal.
-          li
-          .lista-ol--cuadro__vineta
-            span 3
-          |#[b Demanda fluctuante:] enfrentar variaciones estacionales o picos de demanda mediante precios flexibles, promoción u otros incentivos.
-    
+   
     p Por lo tanto, el manejo de recursos humanos se convierte en un pilar estratégico que impacta no solo en la eficiencia operativa y mitigación de riesgos, sino en el bienestar y crecimiento del personal. 
     
     .row.align-items-center.subt.mb-4(data-aos="fade-left")
@@ -644,7 +629,7 @@
     .row.justify-content-center.align-items-center.mb-2(data-aos='fade')
       .col-lg-12
         .cajon.color-acento-contenido.p-4.mb-4
-          p Desde el inicio del plan, los pagos mensuales a los empleados alcanzaron hasta $950,000, aunque hubo dos meses en los que no se generaron ganancias para repartir. La simplicidad de la meta y la relación de cooperación entre la administración y los empleados fueron factores clave para el éxito de este plan.     
+          p Un plan de incentivos y una adecuada gestión de la retribución no solo mejoran la rentabilidad empresarial, sino que también contribuyen al bienestar de los empleados, creando un ambiente de motivación y cooperación. Esto, a su vez, se traduce en mejores resultados y una mayor eficacia organizacional. 
     
     
     
