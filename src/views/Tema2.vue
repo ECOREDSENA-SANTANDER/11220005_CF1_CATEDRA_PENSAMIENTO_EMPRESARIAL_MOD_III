@@ -16,7 +16,7 @@
           span  Proceso de la gestión del riesgo
         img(src='@/assets/curso/temas/t2/img01.svg', alt='La figura presenta el proceso de la gestión del riesgo, que abarca desde la comunicación y consulta, el alcance, contexto y criterios, la evaluación del riesgo, el tratamiento del riesgo, el seguimiento y revisión, finalizando con el registro e informe, todo enmarcado dentro de un ciclo integral.')
         .py-2
-      p.text-center #[b Nota.] Adaptada de NTC-ISO 31000 (2018). https://e-collection-icontec-org.bdigital.sena.edu.co/normavw.aspx?ID=74790
+      p.text-center #[b Nota.] Adaptada de NTC-ISO 31000 (2018).
     
     Separador
     .titulo-segundo.color-acento-contenido(data-aos="flip-up")

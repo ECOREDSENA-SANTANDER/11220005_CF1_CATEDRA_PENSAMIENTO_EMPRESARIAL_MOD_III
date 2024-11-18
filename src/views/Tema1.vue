@@ -55,7 +55,7 @@
             .h5.mb-2 Mejora continua
             p Propicia mejoras a través de aprendizajes y experiencias.
       
-      p.text-center Nota. Adaptada de NTC-ISO 31000 (2018). https://e-collection-icontec-org.bdigital.sena.edu.co/normavw.aspx?ID=74790
+      p.text-center Nota. Adaptada de NTC-ISO 31000 (2018). 
       p Por su parte, el marco de referencia de la gestión del riesgo tiene como propósito asistir a la empresa u organización a integrar el proceso mismo de manera transversal en actividades, funciones y demás procedimientos, calificándose como una gestión del riesgo eficaz, dependiendo de la manera en que sea integrada desde las directivas organizacionales aportando valor al proceso de toma de decisiones.
       p En el marco definido por la NTC-ISO 31000 se consideran los siguientes componentes que actúan en función del liderazgo y compromiso organizacional: 
 
@@ -66,7 +66,7 @@
           span Marco de referencia
         img(src='@/assets/curso/temas/t1/img01.svg', alt='La figura representa el marco de referencia de la gestión del riesgo cuyo enfoque se centra en el liderazgo y compromiso, y sus principales componentes que son: integración, diseño, implementación, valoración y mejora.')
         .py-2
-      p.text-center Nota. Adaptada de NTC-ISO 31000 (2018). https://e-collection-icontec-org.bdigital.sena.edu.co/normavw.aspx?ID=74790
+      p.text-center Nota. Adaptada de NTC-ISO 31000 (2018). 
     
     .row.align-items-center.subt.mb-4(data-aos="fade-left")
       .col-2.col-md-auto

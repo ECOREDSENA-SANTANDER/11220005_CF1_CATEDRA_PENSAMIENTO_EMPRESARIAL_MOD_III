@@ -138,7 +138,7 @@
                 td 
                 td #[b Puntaje total]
                 td #[b 31]
-        p Nota. Adaptada de https://www.welivesecurity.com/la-es/2022/12/13/8-pasos-evaluacion-de-riesgos-2/
+        p Nota. Adaptada de <a href="https://www.welivesecurity.com/la-es/2022/12/13/8-pasos-evaluacion-de-riesgos-2/" target="_blank">Ir al sitio</a>
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
