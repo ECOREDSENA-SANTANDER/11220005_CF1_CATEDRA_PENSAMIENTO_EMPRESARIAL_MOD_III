@@ -100,7 +100,7 @@
           span Evaluación de riesgos.
         .tabla-a.tabla1.color-acento-contenido.mb-3 
           table
-            caption.bg9 Referencia Tabla - Norma APA
+            caption.bg9 Nota. Adaptada de <a href="https://www.welivesecurity.com/la-es/2022/12/13/8-pasos-evaluacion-de-riesgos-2/" target="_blank">Ir al sitio</a>
             thead
               tr.bg9
                 th Criterio de evaluación
@@ -138,7 +138,7 @@
                 td 
                 td #[b Puntaje total]
                 td #[b 31]
-        p Nota. Adaptada de <a href="https://www.welivesecurity.com/la-es/2022/12/13/8-pasos-evaluacion-de-riesgos-2/" target="_blank">Ir al sitio</a>
+        
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-12
@@ -168,6 +168,10 @@
                 td 15 
                   p Zona de riesgo moderado 
                   p - Evitar el riesgo
+                  br
+                  br
+                  br
+                  br
                 td 30 
                   p Zona de riesgo Importante
                   p - Reducir el riesgo
@@ -185,6 +189,8 @@
                   p Zona de riesgo Tolerable
                   p -  Asumir el riesgo
                   p -  Evitar el riesgo
+                  br
+                  br
                 td 20 
                   p Zona de riesgo Moderado
                   p - Reducir el riesgo
@@ -214,6 +220,8 @@
                   p Zona de riesgo inaceptable
                   p - Evitar el riesgo
                   p - Compartir o transferir
+                  br
+                  br
 
               tr
                 td 
