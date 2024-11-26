@@ -25,7 +25,7 @@ export default {
           id: 1,
           texto:
             '¿Cuál es el principal propósito de la gestión del riesgo según la NTC-ISO 31000 (2018)? ',
-          imagen: require('@/assets/componentes/pregunta_1.svg'),
+          imagen: require('@/assets/componentes/pregunta_1.png'),
           barajarRespuestas: true,
           opciones: [
             {
@@ -80,7 +80,7 @@ export default {
           id: 4,
           texto:
             '¿Qué componente del marco de gestión del riesgo asegura que este proceso no se trate como un componente aislado dentro de la organización? ',
-          imagen: require('@/assets/componentes/pregunta_3.png'),
+          imagen: require('@/assets/componentes/pregunta_4.png'),
           barajarRespuestas: false,
           opciones: [
             { id: 'a', texto: 'Implementación', esCorrecta: false },
@@ -99,7 +99,7 @@ export default {
           id: 5,
           texto:
             'El proceso de gestión del riesgo es lineal y debe seguir una secuencia estricta. ',
-          imagen: require('@/assets/componentes/pregunta_3.png'),
+          imagen: require('@/assets/componentes/pregunta_1.png'),
           barajarRespuestas: false,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: false },
@@ -116,7 +116,7 @@ export default {
           id: 6,
           texto:
             '¿Qué elemento es fundamental para establecer los criterios del riesgo dentro de una organización? ',
-          imagen: require('@/assets/componentes/pregunta_3.png'),
+          imagen: require('@/assets/componentes/pregunta_2.png'),
           barajarRespuestas: false,
           opciones: [
             {
@@ -174,7 +174,7 @@ export default {
           id: 8,
           texto:
             'La probabilidad de un riesgo puede medirse únicamente por su frecuencia de ocurrencia. ',
-          imagen: require('@/assets/componentes/pregunta_3.png'),
+          imagen: require('@/assets/componentes/pregunta_4.png'),
           barajarRespuestas: false,
           opciones: [
             { id: 'a', texto: 'Verdadero', esCorrecta: false },
@@ -191,7 +191,7 @@ export default {
           id: 9,
           texto:
             '¿Qué se entiende por "exposición" en el contexto del plan de mejoramiento de la gestión de riesgo? ',
-          imagen: require('@/assets/componentes/pregunta_3.png'),
+          imagen: require('@/assets/componentes/pregunta_1.png'),
           barajarRespuestas: false,
           opciones: [
             {
@@ -223,7 +223,7 @@ export default {
           id: 10,
           texto:
             '¿Cuál es la finalidad principal de asignar una probabilidad y un impacto a cada riesgo identificado? ',
-          imagen: require('@/assets/componentes/pregunta_3.png'),
+          imagen: require('@/assets/componentes/pregunta_2.png'),
           barajarRespuestas: false,
           opciones: [
             {
