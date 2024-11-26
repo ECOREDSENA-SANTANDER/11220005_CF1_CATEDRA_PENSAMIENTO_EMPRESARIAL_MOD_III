@@ -18,7 +18,7 @@ export default {
       tema: 'La gestión del riesgo en la empresa',
       titulo: 'Cuestionario',
       introduccion:
-        'Apropiarse de los conocimientos asociados al proceso de gestión del riesgo en la empresa.',
+        '<b>Objetivo:</b> Apropiarse de los conocimientos asociados al proceso de gestión del riesgo en la empresa.',
       barajarPreguntas: false,
       preguntas: [
         {
